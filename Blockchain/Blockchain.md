@@ -14,14 +14,14 @@ Take a look at these Articles
 
 
 ### What is a Blockchain
-* *Stuart Haber & W. Scott Stornetta, (1991).* How to Time Stamp a Digital Document https://www.anf.es/pdf/Haber_Stornetta.pdf
+* *Stuart Haber & W. Scott Stornetta, (1991).* [How to Time Stamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
 
 ### Understanding a SHA256 Hash
-* Wouter Penard & Tim van Werkhoven, (2008), On the Secure Hash Algorithm family (Chapter 1 of Cryptography in Context) https://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf
+* Wouter Penard & Tim van Werkhoven, (2008), [On the Secure Hash Algorithm family Cryptography in Context](https://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) 
 
 
 ### Immutable Ledger
-* Chris Berg, Sinclair Davidson & Jason Potts (2017),The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics
+* Chris Berg, Sinclair Davidson & Jason Potts (2017), [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
 
 
 ### Distributed P2P Network
