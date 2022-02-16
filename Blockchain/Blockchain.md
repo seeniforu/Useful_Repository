@@ -109,3 +109,7 @@ Take a look at these Articles
 ### ICO Case Study
 * Praveen Krishnan, (2018), What the heck is an ICO?
 * Andrew Finn, (2018), How Crypto Tokens will Enable the Disruption of Businesses like Uber and Airbnb
+
+
+## Learn Web 3.0 by actually Deploying an Application on it
+* [Hands-On Approach (IPFS + Ethereum)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
