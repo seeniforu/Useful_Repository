@@ -15,5 +15,8 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 ## Want to Study Trending Technology, Why Not Block Chain?
 * Take a Look at Web 3.0 & Blockchain
+* Take a Look at [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
+* [13 Git Repos](https://blog.oliverjumpertz.dev/thirteen-incredible-github-repositories-to-leverage-your-blockchain-learning#heading-12-build-your-own-x) for Blockchain Developer By *OliverJumpertz*
+* [OliverJumpertz](https://hashnode.com/@OliverJumpertz) Articles about Blockchain
 
 
