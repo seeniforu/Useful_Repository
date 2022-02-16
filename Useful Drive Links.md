@@ -255,25 +255,6 @@ Computer Hacking Forensic Investigator (CHFI) | All Course Materials 🔮
 ------------------------------------------------------------------------------
 
 
-The Complete Cybersecurity Bootcamp: Threat Defense, Ethical Hacking, and Incident Handling ⭕️
-
-https://www.pearsonitcertification.com/store/complete-cybersecurity-bootcamp-threat-defense-ethical-9780135255476
-
-Total 30.62GB Data - 16 Parts
-
-Access link:
-
-https://mega.nz/#P!AgDLwgacugiwgrNKetFv8GGpQ9rCww8be95oTQ7i7bHqyIIHfEVwF_EkhXcYZW8_Z7-QtY6ukCqfsWGRFZ9sEUV6kXiHI4N3wDvbSuBJo9nocFDfT6SXeA
-
-Password to open MEGA link: 
-thdrksdhckr
-
-
------------------------------------------------------------------------------
-
-
-
-
 
 
 
