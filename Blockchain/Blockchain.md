@@ -4,7 +4,7 @@
 Take a look at these Articles
 
 ### Blockchain and Web 3.0
-* Matteo Gianpietro Zago, (2018), **Why the Web 3.0 Matters and you should know about it**
+* Matteo Gianpietro Zago, (2018), [**Why the Web 3.0 Matters and you should know about it**](https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949)
 
 **Useful tools,**
 
