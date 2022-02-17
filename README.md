@@ -24,5 +24,6 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Take a Look at [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
 * [13 Git Repos](https://blog.oliverjumpertz.dev/thirteen-incredible-github-repositories-to-leverage-your-blockchain-learning#heading-12-build-your-own-x) for Blockchain Developer By *OliverJumpertz*
 * [OliverJumpertz](https://hashnode.com/@OliverJumpertz) Articles about Blockchain
+*  Articles to read for [Blockchain](https://hackernoon.com/tagged/blockchain), [Decentralization](https://hackernoon.com/tagged/Decentralization), ([Web 3.0](https://hackernoon.com/web-30---our-future-or-just-another-buzzword) For more look at Reference Section)
 
 
