@@ -54,7 +54,22 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 * Want a [Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
 * Want to [Create Presentations, designs etc.,](https://www.canva.com/) 
-* High Resolution Image For free download 
-  * [Pexels](https://www.pexels.com/)
-  * [Unplash](https://unsplash.com/)
-  * For [Icons](https://www.iconfinder.com/)(Free + Paid)
+
+#### Websites For Free PNG Images (High Resolution Image For free download)
+* [Stick PNG](https://www.stickpng.com/)
+* [Free PNG](https://freepngimg.com/)
+* [PNG River](https://pngriver.com/)
+* [Free PNGS](https://www.freepngs.com/)
+* [PNG All](https://www.pngall.com/)
+* [Pexels](https://www.pexels.com/)
+* [Unplash](https://unsplash.com/)
+
+#### Websites For Free Icons 
+* [Bootstrap](https://icons.getbootstrap.com/)
+* [Feather Icons](https://feathericons.com/)
+* [StreamLine Icons](https://app.streamlinehq.com/icons)
+* [Unicons](https://iconscout.com/unicons/explore/line)
+* [Key Icons](https://keyicons.com/)
+* [Line Icons](https://lineicons.com/icons/)
+* [Ever Icons](http://www.evericons.com/)
+* For [Icons](https://www.iconfinder.com/) (Free + Paid)
