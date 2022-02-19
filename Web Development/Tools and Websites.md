@@ -16,6 +16,7 @@
 * [Codrops](https://tympanus.net/codrops/category/articles/)
 * [CSS Author](https://cssauthor.com/) - Change Catagories for different list of topics
 * [Scotch](https://www.digitalocean.com/community) - View entire webpage to see all contents
+* [Dev](https://dev.to/) - Select a hastag and Explore
 
 
 ## Github Repositories for Developers
@@ -62,3 +63,14 @@
 * [Key Icons](https://keyicons.com/)
 * [Line Icons](https://lineicons.com/icons/)
 * [Ever Icons](http://www.evericons.com/)
+
+## 3D Illustrations and Animation Tools
+* [Isometric Love](https://www.isometriclove.com/)
+* [IsoFlat](https://isoflat.com/)
+* [3D Shapes Pack](https://dribbble.com/shots/3421366-3D-shapes-pack#)
+* [Animation Tool](https://mojs.github.io/)
+* [Kute.js](https://thednp.github.io/kute.js/)
+* [Parallax](https://simpleparallax.com/)
+* [Granime.js](https://sarcadass.github.io/granim.js/)
+* [Ember burger menu](https://sarcadass.github.io/granim.js/)
+* [Animated letters](https://tympanus.net/Development/AnimatedLetters/index.html)
