@@ -2,10 +2,14 @@
 
 # Tools and Websites
 
-## Take a Look
+## Take a Look (Challenges for all Programming Languages)
 * Visit [Hacker Rank](https://www.hackerrank.com/) For specific Coding Challenges.
 * [Code wars](https://www.codewars.com/), So many different language problems to solve.
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
+
+## Blogs for Web Developers
+* [Daily Articles](https://css-tricks.com/) for Web developers
+
 
 ## Improve your Front End (Challenges and Problems to solve)
 * Try to solve [Challenges](https://www.frontendmentor.io/challenges) to skill up Front end 
@@ -22,3 +26,11 @@
 * [Magic Animations](https://www.minimamente.com/project/magic/) - CSS effects [Visit here](https://github.com/miniMAC/magic) to see How to use.
 * Customizable CSS [Animista](https://animista.net/) very useful in dev.
 * [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/#) a another must visit Website, [Visit here](https://github.com/kristofferandreasen/wickedCSS) to see How to use.
+
+
+## Websites Free PNG Images
+* [Stick PNG](https://www.stickpng.com/)
+* [Free PNG](https://freepngimg.com/)
+* [PNG River](https://pngriver.com/)
+* [Free PNGS](https://www.freepngs.com/)
+* [PNG All](https://www.pngall.com/)
