@@ -7,8 +7,15 @@
 * [Code wars](https://www.codewars.com/), So many different language problems to solve.
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
 
-## Blogs for Web Developers
+## Blogs for Web Developers (Explore)
 * [Daily Articles](https://css-tricks.com/) for Web developers
+* [Creative Bloq](https://www.creativebloq.com/features)
+* [Free code camp](https://www.freecodecamp.org/news/tag/blog) Blog Articles
+* [Smashing Magazine](https://www.smashingmagazine.com/category/web-design/) for Web Design
+* [Tutplus](https://webdesign.tutsplus.com/tutorials?_ga=2.259899214.571088166.1645249344-693838120.1628252649) - Change Catagories for different list of topics
+* [Codrops](https://tympanus.net/codrops/category/articles/)
+* [CSS Author](https://cssauthor.com/) - Change Catagories for different list of topics
+* [Scotch](https://www.digitalocean.com/community) - View entire webpage to see all contents
 
 
 ## Improve your Front End (Challenges and Problems to solve)
