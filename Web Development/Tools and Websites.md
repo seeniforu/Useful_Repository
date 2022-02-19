@@ -18,13 +18,23 @@
 * [Scotch](https://www.digitalocean.com/community) - View entire webpage to see all contents
 
 
+## Github Repositories for Developers
+* Developer [Road Map](https://github.com/kamranahmedse/developer-roadmap)
+* [30-Seconds-Of-Code](https://github.com/30-seconds/30-seconds-of-code)
+* [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+* [CSS-Protips](https://github.com/AllThingsSmitty/css-protips)
+* [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)
+* [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
+* [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+
 ## Improve your Front End (Challenges and Problems to solve)
 * Try to solve [Challenges](https://www.frontendmentor.io/challenges) to skill up Front end 
 * To learn [Fundamental HTML/JS/CSS](https://www.acefrontend.com/) Vist here.
 * Boost CSS with [100 days CSS](https://100dayscss.com/about/)
 * Take up CSS Challenges in [Codier](https://codier.io/)
-
-
 
 ## CSS (Look for documentation to use it)
 
