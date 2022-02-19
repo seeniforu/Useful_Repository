@@ -36,12 +36,19 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
   - [Test Automation University](https://testautomationu.applitools.com/) - For QA's
 
 ### Tools for Everyone (Beginner to Expert) to create Websites
-* [Useful tools](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
+* [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
 * [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - A very Useful Repo.
 
-### Done Creating Wesites Here are some [Free] Hosting Resource
-* First of all Github [Click here to how ?]
-* 
+### Done Creating Wesites, Here are some [Free] Hosting Resource
+* First of all Github [Click here to know how ?](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)
+* [Netlify](https://app.netlify.com/drop) - Just darg and drop folder to host in seconds
+* [Vercel](https://vercel.com/#get-started)  
+* [Firebase](https://firebase.google.com/products/hosting)
+* [Surge](https://surge.sh/)
+* [Render](https://render.com/)
+* [Hostman](https://hostman.com/)
+* [Glitch](https://glitch.com/)
+* [Fly](https://fly.io/)
 
 ## Want to Study Trending Technology, Why Not Block Chain?
 * Take a Look at Web 3.0 & Blockchain
