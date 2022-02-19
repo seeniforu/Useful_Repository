@@ -29,6 +29,8 @@
 * [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
 * [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+* [Modern Web-Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* Front End [Interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 
 
 ## Improve your Front End (Challenges and Problems to solve)
 * Try to solve [Challenges](https://www.frontendmentor.io/challenges) to skill up Front end 
