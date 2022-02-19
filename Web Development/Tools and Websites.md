@@ -59,3 +59,6 @@
 * [Feather Icons](https://feathericons.com/)
 * [StreamLine Icons](https://app.streamlinehq.com/icons)
 * [Unicons](https://iconscout.com/unicons/explore/line)
+* [Key Icons](https://keyicons.com/)
+* [Line Icons](https://lineicons.com/icons/)
+* [Ever Icons](http://www.evericons.com/)
