@@ -35,10 +35,13 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
   - [Sanfoundry](https://www.sanfoundry.com/) Has all types of MCQ's
   - [Test Automation University](https://testautomationu.applitools.com/) - For QA's
 
-### Tools for Everyone (Beginner to Expert) 
+### Tools for Everyone (Beginner to Expert) to create Websites
 * [Useful tools](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
 * [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - A very Useful Repo.
 
+### Done Creating Wesites Here are some [Free] Hosting Resource
+* First of all Github [Click here to how ?]
+* 
 
 ## Want to Study Trending Technology, Why Not Block Chain?
 * Take a Look at Web 3.0 & Blockchain
