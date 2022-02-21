@@ -59,6 +59,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 #### Web development (Backend)
 
 - Node.js and Express.js - [Full Course](https://youtu.be/Oe421EPjeBE)
+- Backend with [Python Django](https://youtu.be/jBzwzrDvZ18)
 
 ### Tools for Everyone (Beginner to Expert) to create Websites
 * [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
