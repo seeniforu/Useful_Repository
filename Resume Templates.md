@@ -15,6 +15,8 @@ You can Prepare your Resume in Ms-Word or also in Online.
 * [EnhanCV](https://enhancv.com/) 
 * [Resume Monk](https://www.resumonk.com/) - Check before Downloading it has both Premium and free versions.
 * [VisualCV](https://www.visualcv.com/) - 3 free templates, Check before editing.
+* [Cultivated Culture](https://cultivatedculture.com/resume-templates/)
+* [Kick Resume](https://www.kickresume.com/en/)
 
 
 ## Additional
