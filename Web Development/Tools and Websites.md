@@ -38,6 +38,8 @@
 * To learn [Fundamental HTML/JS/CSS](https://www.acefrontend.com/) Vist here.
 * Boost CSS with [100 days CSS](https://100dayscss.com/about/)
 * Take up CSS Challenges in [Codier](https://codier.io/)
+* [CSS battle](https://cssbattle.dev/)
+* [Javascript30](https://javascript30.com/)
 
 ## CSS (Look for documentation to use it)
 
