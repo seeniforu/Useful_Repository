@@ -18,6 +18,8 @@ You can Prepare your Resume in Ms-Word or also in Online.
 * [Cultivated Culture](https://cultivatedculture.com/resume-templates/)
 * [Kick Resume](https://www.kickresume.com/en/)
 
+If want You can surely go for Ms-word based simple resume, there is no rules to create a resume. 
+
 
 ## Additional
 
