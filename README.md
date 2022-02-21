@@ -52,7 +52,7 @@ No need to view all. Anyone from above is fine.
 - Introduction To [Responsive Web Design](https://youtu.be/srvUrASNj0s) - [Explore Channel's Playlists](https://www.youtube.com/c/Freecodecamp/playlists?view=58)
 - Responsive video [Tutorial](https://youtu.be/3-2Pj5hxwrw) with [Github code](https://github.com/briancodex/html-css-js-website-smooth-scroll) - [Explore Channel's Playlists](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A/playlists)
 - Small [playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) for Responsive web design.
-- Responsive Portfolio Website design [tutorial](https://youtu.be/BS6blX035NM) - [Explore Channel's Playlists](https://www.youtube.com/c/Bedimcode/playlists), There are more responsive designing tutorials.
+- Responsive Portfolio Website design [tutorial](https://youtu.be/BS6blX035NM) - [Explore Channel's Playlists](https://www.youtube.com/c/Bedimcode/playlists), There are more responsive designing tutorials. [Click here](https://github.com/bedimcode) for Channels Github Profile.
 
 Very few only I mentioned here there are many more, Just explore Youtube.
 
