@@ -8,6 +8,7 @@
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
 
 ## Blogs for Web Developers (Explore)
+* [Free code camp](https://www.freecodecamp.org/news/) Articles
 * [Daily Articles](https://css-tricks.com/) for Web developers
 * [Creative Bloq](https://www.creativebloq.com/features)
 * [Free code camp](https://www.freecodecamp.org/news/tag/blog) Blog Articles
