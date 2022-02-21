@@ -50,7 +50,8 @@ No need to view all. Anyone from above is fine.
 
 - Introduction To [Responsive Web Design](https://youtu.be/srvUrASNj0s)
 - Responsive video [Tutorial](https://youtu.be/3-2Pj5hxwrw) with [Github code](https://github.com/briancodex/html-css-js-website-smooth-scroll)
-- 
+- Small [playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) for Responsive web design.
+- Responsive Portfolio Website design [tutorial](https://youtu.be/BS6blX035NM)
 
 
 ### Tools for Everyone (Beginner to Expert) to create Websites
