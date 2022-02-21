@@ -37,9 +37,10 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
   - [Sanfoundry](https://www.sanfoundry.com/) Has all types of MCQ's
   - [Test Automation University](https://testautomationu.applitools.com/) - For QA's
 
-### Free Video tutorials available
-#### Web development (Beginners)
+### Free Video tutorials Youtube
+#### Web development (Beginners) - Explore these youtube channel for More tutorials
 
+- 100 Days of Code - **[Web Development Bootcamp](https://youtu.be/i9uAgkKEuNU)** - **80 hr Udemy course Short Version (6 hrs)** - [Explore Channel's Playlists](https://www.youtube.com/c/Academind/playlists)
 - Tutorial in [Edureka](https://youtube.com/playlist?list=PL9ooVrP1hQOEloRCBI97ZXkWUg6MJn0Yf) playlist Where you can get Basic ideology about Web Development.
 - [Full Stack Web dev](https://youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz) playlist
 - A Single 10 hrs [Web development](https://youtu.be/7T3gVzKHOlU) video.
@@ -48,11 +49,16 @@ No need to view all. Anyone from above is fine.
 
 #### Web development (Responsive)
 
-- Introduction To [Responsive Web Design](https://youtu.be/srvUrASNj0s)
-- Responsive video [Tutorial](https://youtu.be/3-2Pj5hxwrw) with [Github code](https://github.com/briancodex/html-css-js-website-smooth-scroll)
+- Introduction To [Responsive Web Design](https://youtu.be/srvUrASNj0s) - [Explore Channel's Playlists](https://www.youtube.com/c/Freecodecamp/playlists?view=58)
+- Responsive video [Tutorial](https://youtu.be/3-2Pj5hxwrw) with [Github code](https://github.com/briancodex/html-css-js-website-smooth-scroll) - [Explore Channel's Playlists](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A/playlists)
 - Small [playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw) for Responsive web design.
-- Responsive Portfolio Website design [tutorial](https://youtu.be/BS6blX035NM)
+- Responsive Portfolio Website design [tutorial](https://youtu.be/BS6blX035NM) - [Explore Channel's Playlists](https://www.youtube.com/c/Bedimcode/playlists), There are more responsive designing tutorials.
 
+Very few only I mentioned here there are many more, Just explore Youtube.
+
+#### Web development (Backend)
+
+- Node.js and Express.js - [Full Course](https://youtu.be/Oe421EPjeBE)
 
 ### Tools for Everyone (Beginner to Expert) to create Websites
 * [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
