@@ -93,6 +93,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  [Medium](https://medium.com/@davidvorick) Articles for Web 3. [Sia](https://blog.sia.tech/), [War of free internet](https://blog.sia.tech/the-war-for-a-free-internet-c0a7fcc00c46)
 
 ## Useful Websites Found Online (Photo and Video editing tools)
+
+* [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
 * Want a [Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
 * Want to [Create Presentations, designs etc.,](https://www.canva.com/) 
@@ -105,6 +107,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * Create professional AI videos from text in 60+ languages. Synthesia saves you money, time and quite some nerves - [Website](https://www.synthesia.io/)
 * To create professional and fully customized videos your audience will love. - [Website](https://www.powtoon.com/)
 * **To find a Photo is edited or not** - [Website](http://fotoforensics.com/)
+* [AI Text to Voice](https://speak.streams.live/) - Generate English speech from text
+* [Pattern ninja](https://patterninja.com/) - Patterninja is a pattern making application.
 
 #### Websites For Free PNG Images (High Resolution Image For free download)
 * [Stick PNG](https://www.stickpng.com/)
