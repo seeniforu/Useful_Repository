@@ -92,10 +92,19 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  Articles to read for [Blockchain](https://hackernoon.com/tagged/blockchain), [Decentralization](https://hackernoon.com/tagged/Decentralization), ([Web 3.0](https://hackernoon.com/web-30---our-future-or-just-another-buzzword) For more look at Reference Section)
 *  [Medium](https://medium.com/@davidvorick) Articles for Web 3. [Sia](https://blog.sia.tech/), [War of free internet](https://blog.sia.tech/the-war-for-a-free-internet-c0a7fcc00c46)
 
-## Useful Websites Found Online
-
+## Useful Websites Found Online (Photo and Video editing tools)
+* [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
 * Want a [Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
 * Want to [Create Presentations, designs etc.,](https://www.canva.com/) 
+* Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
+* [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
+* [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
+* [Photopea](https://www.photopea.com/) - Free Online photo editor.
+* Remove your video Background - [Website](https://www.unscreen.com/)
+* Convert your photos into cartoon - [Website](https://photocartoon.net/)
+* Create professional AI videos from text in 60+ languages. Synthesia saves you money, time and quite some nerves - [Website](https://www.synthesia.io/)
+* To create professional and fully customized videos your audience will love. - [Website](https://www.powtoon.com/)
+* **To find a Photo is edited or not** - [Website](http://fotoforensics.com/)
 
 #### Websites For Free PNG Images (High Resolution Image For free download)
 * [Stick PNG](https://www.stickpng.com/)
