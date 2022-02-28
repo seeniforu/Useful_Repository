@@ -94,6 +94,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 ## Useful Websites Found Online (Photo and Video editing tools)
 
+* [All Online Tools in “One Box”](https://10015.io/)
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
 * Want a [Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
@@ -109,6 +110,11 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * **To find a Photo is edited or not** - [Website](http://fotoforensics.com/)
 * [AI Text to Voice](https://speak.streams.live/) - Generate English speech from text
 * [Pattern ninja](https://patterninja.com/) - Patterninja is a pattern making application.
+* [Pic2Map Photo Location Viewer](https://www.pic2map.co)
+* [Online paint tool](https://kleki.com/)
+* [Website](https://www.privacytools.io/) to find best privacy tools.
+* [Encoding and encryption online](https://cryptii.com/)
+* [Random useful sites](https://www.discuvver.com/), one click at a time.
 
 #### Websites For Free PNG Images (High Resolution Image For free download)
 * [Stick PNG](https://www.stickpng.com/)
@@ -144,4 +150,5 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Key Icons](https://keyicons.com/)
 * [Line Icons](https://lineicons.com/icons/)
 * [Ever Icons](http://www.evericons.com/)
-* For [Icons](https://www.iconfinder.com/) (Free + Paid)
+* [Iconfinder](https://www.iconfinder.com/) (Free + Paid)
+* [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
