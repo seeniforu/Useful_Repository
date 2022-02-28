@@ -13,7 +13,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 ## Table of Contents
 
 * [Free png Images](https://github.com/seeniforu/Useful_Repository#websites-for-free-png-images-high-resolution-image-for-free-download)
-* [Free Icons and Illustrations](https://github.com/seeniforu/Useful_Repository/edit/main/README.md#websites-for-free-icons)
+* [Free Icons and Illustrations](https://github.com/seeniforu/Useful_Repository/main/README.md#websites-for-free-icons)
 * [Free Web hosting](https://github.com/seeniforu/Useful_Repository/edit/main/README.md#done-creating-websites-here-are-some-free-hosting-resource)
 * [Web developers tutorials](https://github.com/seeniforu/Useful_Repository/edit/main/README.md#for-developers-must-see) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md)
 * [Useful Websites Found Online](https://github.com/seeniforu/Useful_Repository/edit/main/README.md#useful-websites-found-online-photo-and-video-editing-tools) - (Photo and Video editing tools)
