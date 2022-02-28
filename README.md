@@ -12,11 +12,11 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 ## Table of Contents
 
-* [Free png Images]()
-* [Free Icons and Illustrations]()
-* [Free Web hosting]()
-* [Web developers tutorials]() and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md)
-* [Useful Websites Found Online]() - (Photo and Video editing tools)
+* [Free png Images](#websites-for-free-png-images-high-resolution-image-for-free-download)
+* [Free Icons and Illustrations](#websites-for-free-icons)
+* [Free Web hosting](#done-creating-websites)
+* [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md)
+* [Useful Websites Found Online](#useful-websites-found-online-photo-and-video-editing-tools) - (Photo and Video editing tools)
 
 ## Take a Look
 * Want to [Create a Portfolio](https://github.com/seeniforu/Useful_Repository/blob/main/Portfolio's.md) to show in interview's
@@ -100,7 +100,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  Articles to read for [Blockchain](https://hackernoon.com/tagged/blockchain), [Decentralization](https://hackernoon.com/tagged/Decentralization), ([Web 3.0](https://hackernoon.com/web-30---our-future-or-just-another-buzzword) For more look at Reference Section)
 *  [Medium](https://medium.com/@davidvorick) Articles for Web 3. [Sia](https://blog.sia.tech/), [War of free internet](https://blog.sia.tech/the-war-for-a-free-internet-c0a7fcc00c46)
 
-## Useful Websites Found Online (Photo and Video editing tools)
+## Useful Websites Found Online Photo and Video editing tools
 
 * [All Online Tools in “One Box”](https://10015.io/)
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
@@ -124,7 +124,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Encoding and encryption online](https://cryptii.com/)
 * [Random useful sites](https://www.discuvver.com/), one click at a time.
 
-#### Websites For Free PNG Images (High Resolution Image For free download)
+#### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
 * [Free PNG](https://freepngimg.com/)
 * [PNG River](https://pngriver.com/)
