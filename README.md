@@ -102,6 +102,10 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  [FAQ](https://bitcoin.org/en/faq#general) for Bitcoin.
 *  Medium - [Blockchain](https://medium.com/search?q=blockchain)
 *  Medium - [Smart Contracts](https://medium.com/search?q=smart+contracts)
+*  Medium - [Web 3.0](https://medium.com/search?q=web+3.0)
+*  Medium - [Decentralization](https://medium.com/search?q=decentralization)
+*  Medium - [Bitcoin](https://medium.com/search?q=bitcoin)
+*  Medium - [Solidity](https://medium.com/search?q=solidity)
 
 ## Useful Websites Found Online Photo and Video editing tools
 
