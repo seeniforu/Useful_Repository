@@ -99,12 +99,12 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  Articles to read for [Blockchain](https://hackernoon.com/tagged/blockchain), [Decentralization](https://hackernoon.com/tagged/Decentralization), ([Web 3.0](https://hackernoon.com/web-30---our-future-or-just-another-buzzword) For more look at Reference Section)
 *  [Medium](https://medium.com/@davidvorick) Articles for Web 3. [Sia](https://blog.sia.tech/), [War of free internet](https://blog.sia.tech/the-war-for-a-free-internet-c0a7fcc00c46)
 *  [FAQ](https://bitcoin.org/en/faq#general) for Bitcoin.
-*  Medium - [Blockchain](https://medium.com/search?q=blockchain)
-*  Medium - [Smart Contracts](https://medium.com/search?q=smart+contracts)
-*  Medium - [Web 3.0](https://medium.com/search?q=web+3.0)
-*  Medium - [Decentralization](https://medium.com/search?q=decentralization)
-*  Medium - [Bitcoin](https://medium.com/search?q=bitcoin)
-*  Medium - [Solidity](https://medium.com/search?q=solidity)
+*  Web 3.0 - [Medium](https://medium.com/search?q=web+3.0), [Hashnode](https://hashnode.com/n/web3)
+*  Blockchain Articles - [Medium](https://medium.com/search?q=blockchain), [Hashnode](https://hashnode.com/n/blockchain)
+*  Smart Contracts - [Medium](https://medium.com/search?q=smart+contracts), [Hashnode](https://hashnode.com/n/smart-contracts)
+*  Decentralization - [Medium](https://medium.com/search?q=decentralization), [Hashnode -1](https://hashnode.com/n/decentralised-identity), [Hashnode - 2](https://hashnode.com/search?q=decentralized)
+*  Bitcoin - [Medium](https://medium.com/search?q=bitcoin), [Hashnode](https://hashnode.com/n/bitcoin)
+*  Solidity - [Medium](https://medium.com/search?q=solidity), [Hashnode](https://hashnode.com/n/solidity)
 
 ## Useful Websites Found Online Photo and Video editing tools
 
