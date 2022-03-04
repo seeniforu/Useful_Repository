@@ -13,9 +13,10 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 * [Free png Images](#websites-for-free-png-images-high-resolution-image-for-free-download)
 * [Free Icons and Illustrations](#websites-for-free-icons)
-* [Free Web hosting]
+* [Free Web hosting](#free-hosting-resource)
 * [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md)
 * [Useful Websites Found Online](#useful-websites-found-online-photo-and-video-editing-tools) - (Photo and Video editing tools)
+* [Blockchain and Web 3.0](#want-to-study-trending-technology-why-not-block-chain)
 
 ## Take a Look
 * Want to [Create a Portfolio](https://github.com/seeniforu/Useful_Repository/blob/main/Portfolio's.md) to show in interview's
@@ -74,7 +75,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
 * [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - A very Useful Repo.
 
-### Done Creating Websites, Here are some [Free] Hosting Resource
+### Free Hosting Resource
+
 * First of all Github [Click here to know how ?](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)
 * [Netlify](https://app.netlify.com/drop) - Just darg and drop folder to host in seconds
 * [Vercel](https://vercel.com/#get-started)  
@@ -91,7 +93,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Helio Host](https://www.heliohost.org/)
 
 
-## Want to Study Trending Technology, Why Not Block Chain?
+## Want to Study Trending Technology Why Not Block Chain
 * Take a Look at [Web 3.0 & Blockchain](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
 * Take a Look at [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
 * [13 Git Repos](https://blog.oliverjumpertz.dev/thirteen-incredible-github-repositories-to-leverage-your-blockchain-learning#heading-12-build-your-own-x) for Blockchain Developer By *OliverJumpertz*
