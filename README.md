@@ -178,4 +178,4 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Iconfinder](https://www.iconfinder.com/) (Free + Paid)
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C31F7&lines=Back+to+Top..)](#welcome)
