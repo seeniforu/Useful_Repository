@@ -3,10 +3,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91478125/156699265-78aeca40-c579-4450-8fd6-5736daa53d8b.svg" width="400"></img>
  </p>
- 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%231A3AF7&size=23&vCenter=true&width=412&height=23&lines=Stay+Cool+Everything+is+Possible)](https://git.io/typing-svg)
- 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%231A3AF7&size=23&vCenter=true&width=412&height=23&lines=Stay+Cool+Everything+is+Possible"></img>
+</p>
+
+## Welcome
 
 Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as You.
 
@@ -175,3 +177,5 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Ever Icons](http://www.evericons.com/)
 * [Iconfinder](https://www.iconfinder.com/) (Free + Paid)
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
+
+
