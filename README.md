@@ -32,12 +32,14 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Want to [Create a Attractive Resume](https://github.com/seeniforu/Useful_Repository/blob/main/Resume%20Templates.md) My Personal Opinion is to use online Free templates which are Attractive and Simple. 
 * Here are Some Collection of [GitHub Repos](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md) I find it very useful.
 * Have a Habit of **Creating Your Own 'Something'** after you got attracted or after learning things, [Must visit Repo](https://github.com/danistefanovic/build-your-own-x) to build on your own X.
+* Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
 
   * Visual Studio Code - User Friendly Environment [Web based](https://vscode.dev/), [Download for your OS](https://code.visualstudio.com/Download) - Choose language start Development.
   * [JS bin Website](https://jsbin.com/?html,css,js,console,output) where you can code (HTML,CSS,Javascript) in Parallel (Useful to Run Javascript Alone).
+  * [Tio](https://tio.run/#) - Online compiler for 680 Langauges.
   * List of [Online Compilers](https://www.programiz.com/python-programming/online-compiler/) - User can select different language at the left side of window.  
 
 ## For Developers (Must See)
@@ -79,7 +81,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - Backend with [Python Django](https://youtu.be/jBzwzrDvZ18)
 
 ### Tools for Everyone (Beginner to Expert) to create Websites
-
+* [Bro code](https://www.youtube.com/c/BroCodez/featured) Youtube channel for All Basic tutorials.
 * **A must see [Youtube Channel's playlists](https://youtu.be/jBzwzrDvZ18) for Developers. - Ultimate CSS Tips & Tricks**
 * [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
 * [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - A very Useful Repo.
@@ -108,6 +110,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
 - [Michigan University course](https://www.coursera.org/learn/python) - Programming for Everybody (Getting Started with Python)
 - Coursera's [Free Courses](https://www.coursera.org/courses?query=free)
+- [Class Central](https://www.classcentral.com/subjects) - Free courses with certificates.
 - [Codeacademy](https://www.codecademy.com/catalog) for Challenges, cheatsheets, [Articles](https://www.codecademy.com/articles), [Blogs](https://www.codecademy.com/resources/blog/)
 - [Sololearn](https://www.sololearn.com/learning) - Free Programming courses, [Blog](https://www.sololearn.com/blog).
 
