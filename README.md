@@ -101,6 +101,15 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Deta](https://www.deta.sh/)
 * [Helio Host](https://www.heliohost.org/)
 
+## Free Online Courses
+
+- [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
+- [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
+- [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
+- [Michigan University course](https://www.coursera.org/learn/python) - Programming for Everybody (Getting Started with Python)
+- Coursera's [Free Courses](https://www.coursera.org/courses?query=free)
+- [Codeacademy](https://www.codecademy.com/catalog) for Challenges, cheatsheets, [Articles](https://www.codecademy.com/articles), [Blogs](https://www.codecademy.com/resources/blog/)
+- [Sololearn](https://www.sololearn.com/learning) - Free Programming courses, [Blog](https://www.sololearn.com/blog).
 
 ## Want to Study Trending Technology Why Not Block Chain
 * Take a Look at [Web 3.0 & Blockchain](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
