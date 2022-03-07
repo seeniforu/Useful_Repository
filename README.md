@@ -105,6 +105,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 ## Free Online Courses
 
+- [List of Thousands](https://www.classcentral.com/report/free-certificates/) of **Free Certificates and Badges** From Google, LinkedIn, Freecodecamp etc.,
 - [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
 - [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
