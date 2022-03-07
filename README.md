@@ -33,6 +33,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Here are Some Collection of [GitHub Repos](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md) I find it very useful.
 * Have a Habit of **Creating Your Own 'Something'** after you got attracted or after learning things, [Must visit Repo](https://github.com/danistefanovic/build-your-own-x) to build on your own X.
 * Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
+* Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/).
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
@@ -106,6 +107,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 ## Free Online Courses
 
 - [List of Thousands](https://www.classcentral.com/report/free-certificates/) of **Free Certificates and Badges** From Google, LinkedIn, Freecodecamp etc.,
+- [DigitalDefynd](https://digitaldefynd.com/search/) - Find free and paid courses here.
 - [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
 - [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
