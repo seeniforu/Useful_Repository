@@ -84,6 +84,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 ### Tools for Everyone (Beginner to Expert) to create Websites
 * [Bro code](https://www.youtube.com/c/BroCodez/featured) Youtube channel for All Basic tutorials.
 * **A must see [Youtube Channel's playlists](https://youtu.be/jBzwzrDvZ18) for Developers. - Ultimate CSS Tips & Tricks**
+* [CSS tricks](https://css-tricks.com/snippets/) - Topics about HTML, CSS etc.,
 * [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
 * [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - A very Useful Repo.
 
@@ -183,6 +184,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Stocksnap](https://stocksnap.io)
 * [Shutterstock](http://www.shutterstock.com)
 * [tookapic](https://stock.tookapic.com)
+* [Freepik](https://www.freepik.com/)
 
 #### Websites For Free Icons 
 * [Bootstrap](https://icons.getbootstrap.com/)
