@@ -125,9 +125,10 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  Articles to read for [Blockchain](https://hackernoon.com/tagged/blockchain), [Decentralization](https://hackernoon.com/tagged/Decentralization), ([Web 3.0](https://hackernoon.com/web-30---our-future-or-just-another-buzzword) For more look at Reference Section)
 *  [Medium](https://medium.com/@davidvorick) Articles for Web 3. [Sia](https://blog.sia.tech/), [War of free internet](https://blog.sia.tech/the-war-for-a-free-internet-c0a7fcc00c46)
 *  [FAQ](https://bitcoin.org/en/faq#general) for Bitcoin.
-*  Web 3.0 - [Medium](https://medium.com/search?q=web+3.0), [Hashnode](https://hashnode.com/n/web3), [Dedicated Hashnode Web3](https://web3.hashnode.com/)
+*  Web 3.0 - [Medium](https://medium.com/search?q=web+3.0), [Hashnode](https://hashnode.com/n/web3), [Dedicated Hashnode Web3](https://web3.hashnode.com/), [Web3 vision article](https://blog.cloudflare.com/what-is-web3/)
 *  [Web3](https://townhall.hashnode.com/best-web3-resources) - Resources for Developers.
-*  Blockchain Articles - [Medium](https://medium.com/search?q=blockchain), [Hashnode](https://hashnode.com/n/blockchain)
+*  Web3labs - [Insights](https://blog.web3labs.com/) and [Development](https://blog.web3labs.com/web3development/page/1)
+*  Blockchain Articles - [Medium](https://medium.com/search?q=blockchain), [Hashnode](https://hashnode.com/n/blockchain), [Magazine](https://blockchainmagazine.net/blockchain-101/)
 *  Smart Contracts - [Medium](https://medium.com/search?q=smart+contracts), [Hashnode](https://hashnode.com/n/smart-contracts)
 *  Decentralization - [Medium](https://medium.com/search?q=decentralization), [Hashnode -1](https://hashnode.com/n/decentralised-identity), [Hashnode - 2](https://hashnode.com/search?q=decentralized)
 *  Bitcoin - [Medium](https://medium.com/search?q=bitcoin), [Hashnode](https://hashnode.com/n/bitcoin)
