@@ -3,9 +3,14 @@
 # Tools and Websites
 
 ## Take a Look (Challenges for all Programming Languages)
+
 * Visit [Hacker Rank](https://www.hackerrank.com/) For specific Coding Challenges.
+* Visit [Hacker Earth](https://www.hackerearth.com/) - Take Coding Assesments and challenges. 
+* [Leet code](https://leetcode.com/) - Perfect place for Data structure problems.
+* [Codeforce](https://codeforces.com/problemset)
 * [Code wars](https://www.codewars.com/), So many different language problems to solve.
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
+* [Exercism](https://exercism.org/) - Free with 56 languages.
 
 ## Blogs for Web Developers (Explore)
 * [Free code camp](https://www.freecodecamp.org/news/) Articles
