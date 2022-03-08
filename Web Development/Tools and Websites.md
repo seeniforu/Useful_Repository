@@ -54,7 +54,12 @@
 * [Magic Animations](https://www.minimamente.com/project/magic/) - CSS effects [Visit here](https://github.com/miniMAC/magic) to see How to use.
 * Customizable CSS [Animista](https://animista.net/) very useful in dev.
 * [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/#) a another must visit Website, [Visit here](https://github.com/kristofferandreasen/wickedCSS) to see How to use.
-
+* CSS tools
+  - [wait animate](https://waitanimate.wstone.uk/)
+  - [CSS generator](https://css3generator.com/)
+  - [CSS maker](https://www.toptal.com/developers/css3maker/index.html)
+  - [Web code tools](https://webcode.tools/) - CSS, HTML Generators
+  - 
 
 ## Websites For Free PNG Images
 * [Stick PNG](https://www.stickpng.com/)
