@@ -92,6 +92,9 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 * First of all Github [Click here to know how ?](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)
 * [Netlify](https://app.netlify.com/drop) - Just darg and drop folder to host in seconds
+* [Infinity Free](https://infinityfree.net/)
+* [Freehostia](https://www.freehostia.com/)
+* [000Webhost](https://in.000webhost.com/)
 * [Vercel](https://vercel.com/#get-started)  
 * [Firebase](https://firebase.google.com/products/hosting)
 * [Surge](https://surge.sh/)
@@ -104,6 +107,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Stormkit](https://www.stormkit.io/)
 * [Deta](https://www.deta.sh/)
 * [Helio Host](https://www.heliohost.org/)
+* [AwardSpace](https://www.awardspace.com/)
 
 ## Free Online Courses
 
