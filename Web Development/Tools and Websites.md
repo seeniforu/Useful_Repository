@@ -7,7 +7,8 @@
 * Visit [Hacker Rank](https://www.hackerrank.com/) For specific Coding Challenges.
 * Visit [Hacker Earth](https://www.hackerearth.com/) - Take Coding Assesments and challenges. 
 * [Leet code](https://leetcode.com/) - Perfect place for Data structure problems.
-* [Codeforce](https://codeforces.com/problemset)
+* [Codeforce](https://codeforces.com/problemset) - Search for Problems.
+* [Codechef](https://www.codechef.com/) - Goto Practice, choose level, Solve problems.
 * [Code wars](https://www.codewars.com/), So many different language problems to solve.
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
 * [Exercism](https://exercism.org/) - Free with 56 languages.
