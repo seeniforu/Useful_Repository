@@ -14,7 +14,7 @@
 
 ## Blogs for Web Developers (Explore)
 * [Free code camp](https://www.freecodecamp.org/news/) Articles
-* [Daily Articles](https://css-tricks.com/) for Web developers
+* [Daily Articles - CSS tricks](https://css-tricks.com/) for Web developers
 * [Creative Bloq](https://www.creativebloq.com/features)
 * [Free code camp](https://www.freecodecamp.org/news/tag/blog) Blog Articles
 * [Smashing Magazine](https://www.smashingmagazine.com/category/web-design/) for Web Design
@@ -59,7 +59,10 @@
   - [CSS generator](https://css3generator.com/)
   - [CSS maker](https://www.toptal.com/developers/css3maker/index.html)
   - [Web code tools](https://webcode.tools/) - CSS, HTML Generators
-  - 
+  - [Flex boxes](https://the-echoplex.net/flexyboxes/)
+  - [CSSMatic](https://www.cssmatic.com/) - Gradient generator, Border radius, Box shadow, noise texture.
+  - [Different generators](https://haikei.app/generators/) with [Back Ground](https://haikei.app/) Generator.
+  - [Button generator](https://www.bestcssbuttongenerator.com/)
 
 ## Websites For Free PNG Images
 * [Stick PNG](https://www.stickpng.com/)
