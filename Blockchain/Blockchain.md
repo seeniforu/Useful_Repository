@@ -111,6 +111,11 @@ Take a look at these Articles
 * Praveen Krishnan, (2018), What the heck is an ICO?
 * Andrew Finn, (2018), How Crypto Tokens will Enable the Disruption of Businesses like Uber and Airbnb
 
+### Blockchain white papers
+
+* [Sia](https://sia.tech/technology) - A peer-to-peer network with blockchain technology to create the world's first decentralized storage platform.
+* [Power Ledger](https://www.powerledger.io/blockchain-technology) - A blockchain built for decentralised and distributed energy markets.
+* [Provenance](https://www.provenance.org/whitepaper) - Blockchain: the solution for transparency in product supply chains.
 
 ## Learn Web 3.0 by actually Deploying an Application on it
 * [Hands-On Approach (IPFS + Ethereum)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
