@@ -12,8 +12,11 @@
 * [Code wars](https://www.codewars.com/), So many different language problems to solve.
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
 * [Exercism](https://exercism.org/) - Free with 56 languages.
+* [Fun projects](https://fun-javascript-projects.com/) to try out.
 
 ## Blogs for Web Developers (Explore)
+
+* [Daily Dev](https://daily.dev/) - Add Extension <i><q>**Must see for Developers**</q></i> 🔥🔥
 * [Free code camp](https://www.freecodecamp.org/news/) Articles
 * [Daily Articles - CSS tricks](https://css-tricks.com/) for Web developers
 * [Creative Bloq](https://www.creativebloq.com/features)
@@ -24,6 +27,7 @@
 * [CSS Author](https://cssauthor.com/) - Change Catagories for different list of topics
 * [Scotch](https://www.digitalocean.com/community) - View entire webpage to see all contents
 * [Dev](https://dev.to/) - Select a hastag and Explore
+* [type4acedemy Articles](https://hype4.academy/articles)
 
 
 ## Github Repositories for Developers
@@ -56,6 +60,7 @@
 * Customizable CSS [Animista](https://animista.net/) very useful in dev.
 * [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/#) a another must visit Website, [Visit here](https://github.com/kristofferandreasen/wickedCSS) to see How to use.
 * CSS tools
+  - type4academy [Glass morphism Tools](https://hype4.academy/tools).
   - [wait animate](https://waitanimate.wstone.uk/)
   - [CSS generator](https://css3generator.com/)
   - [CSS maker](https://www.toptal.com/developers/css3maker/index.html)
@@ -64,6 +69,10 @@
   - [CSSMatic](https://www.cssmatic.com/) - Gradient generator, Border radius, Box shadow, noise texture.
   - [Different generators](https://haikei.app/generators/) with [Back Ground](https://haikei.app/) Generator.
   - [Button generator](https://www.bestcssbuttongenerator.com/)
+  - [CSS buttons](https://cssbuttons.io/) - Must see
+  - [Key frames](https://keyframes.app/) - For Animations, Shadows, colors.
+  - [BG jar](https://bgjar.com/) - Free SVG background generator.
+  - 
 
 ## Websites For Free PNG Images
 * [Stick PNG](https://www.stickpng.com/)
