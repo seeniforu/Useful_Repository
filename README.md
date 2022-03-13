@@ -20,9 +20,10 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 ## Table of Contents
 
+* [Free Online Courses](#free-online-courses)
 * [Online Tutorials for all Topics](#are-you-going-to-start-learning)
-* [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md)
-* [Useful Websites Found Online](#useful-websites-found-online-photo-and-video-editing-tools) - (Photo and Video editing tools)
+* [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) - (Coding practice platforms, Articles and blogs, CSS tools etc.,)
+* [Useful Websites Found Online](#useful-websites-found-online-photo-and-video-editing-tools) and [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - (Photo and Video editing tools) 
 * [Blockchain and Web 3.0](#want-to-study-trending-technology-why-not-block-chain)
 * [Github Collection](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md)
 * [Free png Images](#websites-for-free-png-images-high-resolution-image-for-free-download)
@@ -83,12 +84,12 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - Node.js and Express.js - [Full Course](https://youtu.be/Oe421EPjeBE)
 - Backend with [Python Django](https://youtu.be/jBzwzrDvZ18)
 
-### Tools for Everyone (Beginner to Expert) to create Websites
+#### Tools and Tricks for Development
+
 * [Bro code](https://www.youtube.com/c/BroCodez/featured) Youtube channel for All Basic tutorials.
 * **A must see [Youtube Channel's playlists](https://youtu.be/jBzwzrDvZ18) for Developers. - Ultimate CSS Tips & Tricks**
 * [CSS tricks](https://css-tricks.com/snippets/) - Topics about HTML, CSS etc.,
 * [Useful Tools and Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) for Everyone.
-* [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - A very Useful Repo.
 
 ### Free Hosting Resource
 
