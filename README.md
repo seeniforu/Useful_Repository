@@ -143,6 +143,9 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  Decentralization - [Medium](https://medium.com/search?q=decentralization), [Hashnode -1](https://hashnode.com/n/decentralised-identity), [Hashnode - 2](https://hashnode.com/search?q=decentralized)
 *  Bitcoin - [Medium](https://medium.com/search?q=bitcoin), [Hashnode](https://hashnode.com/n/bitcoin)
 *  Solidity - [Medium](https://medium.com/search?q=solidity), [Hashnode](https://hashnode.com/n/solidity)
+* [Bitdegree](https://www.bitdegree.org/) - Free courses and tutorials
+* [Enlight](https://enlight.nyc) and [github.io](https://tryenlight.github.io/#) - Tutorials and projects.
+
 
 ## Useful Websites Found Online Photo and Video editing tools
 
