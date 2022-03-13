@@ -13,6 +13,10 @@
 * Challenges from [Coderbyte](https://coderbyte.com/challenges)
 * [Exercism](https://exercism.org/) - Free with 56 languages.
 * [Fun projects](https://fun-javascript-projects.com/) to try out.
+* Take Problems from [SPOJ](https://www.spoj.com/)
+* [CodinGames](https://www.codingame.com/start)
+* [Edabit](https://edabit.com/)
+* [Checkio](https://checkio.org/) for python
 
 ## Blogs for Web Developers (Explore)
 
