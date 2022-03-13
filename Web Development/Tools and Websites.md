@@ -54,14 +54,15 @@ For More **[Click Here](https://github.com/seeniforu/Useful_Repository/blob/main
 * [CSS battle](https://cssbattle.dev/)
 * [Javascript30](https://javascript30.com/)
 
-## CSS (Look for documentation to use it)
+## CSS Tools (Look for documentation to use it)
 
 * Want to add [Animation effects](https://animate.style/).
 * To add [Hover effects](https://ianlunn.github.io/Hover/) Visit github to install and use.
 * [Magic Animations](https://www.minimamente.com/project/magic/) - CSS effects [Visit here](https://github.com/miniMAC/magic) to see How to use.
 * Customizable CSS [Animista](https://animista.net/) very useful in dev.
 * [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/#) a another must visit Website, [Visit here](https://github.com/kristofferandreasen/wickedCSS) to see How to use.
-* CSS tools
+
+### CSS Online tools
   - type4academy [Glass morphism Tools](https://hype4.academy/tools).
   - [wait animate](https://waitanimate.wstone.uk/)
   - [CSS generator](https://css3generator.com/)
@@ -74,7 +75,6 @@ For More **[Click Here](https://github.com/seeniforu/Useful_Repository/blob/main
   - [CSS buttons](https://cssbuttons.io/) - Must see
   - [Key frames](https://keyframes.app/) - For Animations, Shadows, colors.
   - [BG jar](https://bgjar.com/) - Free SVG background generator.
-  - 
 
 ## Websites For Free PNG Images
 * [Stick PNG](https://www.stickpng.com/)
