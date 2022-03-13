@@ -36,6 +36,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Here are Some Collection of [GitHub Repos](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md) I find it very useful.
 * Have a Habit of **Creating Your Own 'Something'** after you got attracted or after learning things, [Must visit Repo](https://github.com/danistefanovic/build-your-own-x) to build on your own X.
 * Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
+* [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
 * Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/).
 
 ## Useful Workspace for Development
@@ -115,6 +116,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 ## Free Online Courses
 
 - [List of Thousands](https://www.classcentral.com/report/free-certificates/) of **Free Certificates and Badges** From Google, LinkedIn, Freecodecamp etc.,
+- [Alison.com Courses](https://alison.com/courses/categories) - Choose category Start Doing.
 - [DigitalDefynd](https://digitaldefynd.com/search/) - Find free and paid courses here.
 - [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
 - [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
@@ -154,6 +156,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
 * [Photopea](https://www.photopea.com/) - Free Online photo editor.
 * Remove your video Background - [Website](https://www.unscreen.com/)
+* [Remove Video Background](https://bgrem.deelvin.com/)
+* [Convert text to Voice](https://uberduck.ai/#mode=tts-basic)
 * Convert your photos into cartoon - [Website](https://photocartoon.net/)
 * Create professional AI videos from text in 60+ languages. Synthesia saves you money, time and quite some nerves - [Website](https://www.synthesia.io/)
 * To create professional and fully customized videos your audience will love. - [Website](https://www.powtoon.com/)
