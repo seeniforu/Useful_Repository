@@ -17,6 +17,9 @@
 * [CodinGames](https://www.codingame.com/start)
 * [Edabit](https://edabit.com/)
 * [Checkio](https://checkio.org/) for python
+* [programmr](https://www.programmr.com/)
+* [Codepen](https://codepen.io/)
+* [coding bat](https://codingbat.com/python)
 
 ## Blogs for Web Developers (Explore)
 
