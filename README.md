@@ -145,6 +145,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 *  Solidity - [Medium](https://medium.com/search?q=solidity), [Hashnode](https://hashnode.com/n/solidity)
 * [Bitdegree](https://www.bitdegree.org/) - Free courses and tutorials
 * [Enlight](https://enlight.nyc) and [github.io](https://tryenlight.github.io/#) - Tutorials and projects.
+* Blockgeeks - [Developers](https://blockgeeks.com/guides/?tagfilter=true&filter=Blockchain%20for%20Developers), [Intermidiate](https://blockgeeks.com/guides/?tagfilter=true&filter=Blockchain%20for%20intermediate), [tutorial](https://blockgeeks.com/guides/what-is-blockchain-technology/), [Ethereum](https://blockgeeks.com/guides/ethereum/) - View Guides for Blockchain Community.
+* [101Blockchains](https://101blockchains.com/blog/) - Blogs, Free course and books, Presentations.
 
 
 ## Useful Websites Found Online Photo and Video editing tools
