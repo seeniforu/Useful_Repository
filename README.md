@@ -160,6 +160,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [ionix tech](https://blog.ionixxtech.com/category/blockchain/) - use categories for different topics.
 * [akeo blog](https://blogs.akeo.tech/)
 * [Blockchain news Today](https://blockchainnewstoday.com/category/articles/) - Use archives and categories.
+* [Arch ethic](https://archethic.net/blog/)
 
 ## Useful Websites Found Online Photo and Video editing tools
 
