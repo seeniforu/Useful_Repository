@@ -158,6 +158,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Quill hash](https://blog.quillhash.com/) - Look Archives for year wise articles
 * [Block edge](https://www.blockedge.io/blog/)
 * [ionix tech](https://blog.ionixxtech.com/category/blockchain/) - use categories for different topics.
+* [akeo blog](https://blogs.akeo.tech/)
+* [Blockchain news Today](https://blockchainnewstoday.com/category/articles/) - Use archives and categories.
 
 ## Useful Websites Found Online Photo and Video editing tools
 
