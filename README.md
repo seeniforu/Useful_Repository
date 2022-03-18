@@ -152,6 +152,12 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Blockchain council](https://www.blockchain-council.org/category/blockchain/) - Go to Resources for Articles.
 * [IBM Blockchain](https://www.ibm.com/blockchain) - Learn and Explore More will be useful.
 * [dapp radar](https://dappradar.com/blog/category/education) - Articles.
+* [Blockchain news](https://blockchain.news/learn) - See Learn
+* [Blockchainapps Developer](https://www.blockchainappsdeveloper.com/blog/category/blockchain) and Some [Ebooks](https://www.blockchainappsdeveloper.com/ebooks)
+* [Immune bytes](https://immunebytes.com/blog/)
+* [Quill hash](https://blog.quillhash.com/) - Look Archives for year wise articles
+* [Block edge](https://www.blockedge.io/blog/)
+* [ionix tech](https://blog.ionixxtech.com/category/blockchain/) - use categories for different topics.
 
 ## Useful Websites Found Online Photo and Video editing tools
 
