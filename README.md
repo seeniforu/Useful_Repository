@@ -37,7 +37,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Have a Habit of **Creating Your Own 'Something'** after you got attracted or after learning things, [Must visit Repo](https://github.com/danistefanovic/build-your-own-x) to build on your own X.
 * Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
-* Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/).
+* Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/), [Projects world](https://projectworlds.in/), [circuit digest](https://circuitdigest.com/ai-projects-and-tutorials)
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
