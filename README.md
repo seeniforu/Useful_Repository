@@ -24,7 +24,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * [Online Tutorials for all Topics](#are-you-going-to-start-learning)
 * [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) - (Coding practice platforms, Articles and blogs, CSS tools etc.,)
 * [Useful Websites Found Online](#useful-websites-found-online-photo-and-video-editing-tools) and [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - (Photo and Video editing tools) 
-* [Blockchain and Web 3.0](#want-to-study-trending-technology-why-not-block-chain)
+* [Blockchain and Web 3.0](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
 * [Github Collection](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md)
 * [Free png Images](#websites-for-free-png-images-high-resolution-image-for-free-download)
 * [Free Icons and Illustrations](#websites-for-free-icons)
