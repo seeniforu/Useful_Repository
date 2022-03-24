@@ -128,14 +128,15 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - [Sololearn](https://www.sololearn.com/learning) - Free Programming courses, [Blog](https://www.sololearn.com/blog).
 
 
-## Useful Websites Found Online Photo and Video editing tools
+## Useful Websites Found Online Photo, Video, Document and more editing tools
 
 * [Tiny Wow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier, - 100% Free 🔥🔥
 * [All Online Tools in “One Box”](https://10015.io/)
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
-* Want a [Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
-* Want to [Create Presentations, designs etc.,](https://www.canva.com/) 
+* Want a **[Whiteboard]**(https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
+* Want to **[Create Presentations, designs etc.,]**(https://www.canva.com/) 
+* Want to **[Create Diagram and Flow Chart]**(https://www.diagrams.net/) for Easy Understanding
 * Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
