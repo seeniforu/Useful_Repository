@@ -23,7 +23,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * [Free Online Courses](#free-online-courses)
 * [Online Tutorials for all Topics](#are-you-going-to-start-learning)
 * [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) - (Coding practice platforms, Articles and blogs, CSS tools etc.,)
-* [Useful Websites Found Online](#useful-websites-found-online-photo-and-video-editing-tools) and [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - (Photo and Video editing tools) 
+* [Useful Websites Found Online](#useful-websites-found-online-photo-video-document-and-more-editing-tools) and [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - (Photo and Video editing tools)
 * [Blockchain and Web 3.0](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
 * [Github Collection](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md)
 * [Free png Images](#websites-for-free-png-images-high-resolution-image-for-free-download)
@@ -134,9 +134,9 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [All Online Tools in “One Box”](https://10015.io/)
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
-* Want a **[Whiteboard]**(https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d) while Teaching or Demonstrating Something
-* Want to **[Create Presentations, designs etc.,]**(https://www.canva.com/) 
-* Want to **[Create Diagram and Flow Chart]**(https://www.diagrams.net/) for Easy Understanding
+* Want a **[Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d)** while Teaching or Demonstrating Something
+* Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
+* Want to **[Create Diagram and Flow Chart](https://www.diagrams.net/)** for Easy Understanding
 * Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
