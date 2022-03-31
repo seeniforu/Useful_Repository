@@ -14,6 +14,7 @@ Take a look at these Articles
 * Matteo Gianpietro Zago, (2018), [**Why the Web 3.0 Matters and you should know about it**](https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949)
 * Useful Learning Resources For [Web 3.0 Developers](https://cssauthor.com/useful-learning-resources-for-web-3-0-developers/)
 * [Web 3.0 Foundation](https://medium.com/web3foundation)
+* [Radicle is a peer-to-peer stack for building software together](https://radicle.xyz/)
 
 **Useful tools,**
 
@@ -132,4 +133,4 @@ Take a look at these Articles
 ## Learn Web 3.0 by actually Deploying an Application on it
 * [Hands-On Approach (IPFS + Ethereum)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
 * [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application)
-
+* [How to build on Web 3](https://www.freecodecamp.org/news/what-is-web3/) - End of page, Ethereum development tutorial
