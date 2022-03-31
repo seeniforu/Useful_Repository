@@ -15,6 +15,7 @@
 * [Modern Web-Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * Front End [Interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 
 * [Web-dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
+* [Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
 
 ## Github Repositories - Common
 
@@ -33,3 +34,11 @@
 * [Web 3.0 Resources](https://github.com/FrancescoXX/100-days-of-Web3) and [Road to 3.0](https://github.com/dingzhanjun/Road-to-web-3.0)
 * [A list of tools, libs and resources to help you build awesome dapps](https://github.com/JoinColony/awesome-web3)
 * [Twitter like Web 3 project](https://github.com/Zeno3463/web3.0-twitter-clone)
+* [Learn Blockchains by Building One](https://github.com/dvf/blockchain)
+* [Blockchain Solidity Course](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+* [list of resources for the development and applications of block chain](https://github.com/yjjnls/awesome-blockchain)
+* [Mist browser](https://github.com/ethereum/mist) is the tool of choice to browse and use Ðapps.
+* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path)
+* [Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)
+* [A collection of peer-to-peer decentralized projects](https://github.com/moshest/p2p-index)
+* [Learn_Blockchain_in_2_months](https://github.com/llSourcell/Learn_Blockchain_in_2_months)
