@@ -10,15 +10,20 @@ Take a look at these Articles
 - Blockchain [RoadMap](https://jamesbachini.com/blockchain-developer/#free-resources-to-learn) - Check it out (3)
 
 ### Blockchain and Web 3.0
+
 * Matteo Gianpietro Zago, (2018), [**Why the Web 3.0 Matters and you should know about it**](https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949)
 * Useful Learning Resources For [Web 3.0 Developers](https://cssauthor.com/useful-learning-resources-for-web-3-0-developers/)
+* [Web 3.0 Foundation](https://medium.com/web3foundation)
 
 **Useful tools,**
 
 * https://tools.superdatascience.com/blockchain/hash/
 
-*  https://tools.superdatascience.com/blockchain/public-private-keys/signatures
+* https://tools.superdatascience.com/blockchain/public-private-keys/signatures
 
+### Youtube Tutorials
+
+* BlockChain [Youtube](https://youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
 
 ### What is a Blockchain
 * *Stuart Haber & W. Scott Stornetta, (1991).* [How to Time Stamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
@@ -126,3 +131,5 @@ Take a look at these Articles
 
 ## Learn Web 3.0 by actually Deploying an Application on it
 * [Hands-On Approach (IPFS + Ethereum)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
+* [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application)
+
