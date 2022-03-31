@@ -16,3 +16,4 @@
 * [Web-dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
 * [100 days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
+* [Free For Developers](https://github.com/ripienaar/free-for-dev#table-of-contents)
