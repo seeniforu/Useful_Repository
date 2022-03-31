@@ -23,3 +23,12 @@
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
 * [Free For Developers](https://github.com/ripienaar/free-for-dev#table-of-contents)
 * [The Art of command Line](https://github.com/jlevy/the-art-of-command-line)
+
+## Github Repositories - BlockChain
+
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Book
+* [A Decentralised Privacy-Preserving Communication Protocol](https://github.com/w3f/messaging)
+* [Web 3.0 vault](https://github.com/Tikam02/Web3.0_Vault)
+* [Web 3 Newbies](https://github.com/Indizr/web3newbies/blob/master/web3newbies.md)
+* [Web 3.0 Resources](https://github.com/FrancescoXX/100-days-of-Web3) and [Road to 3.0](https://github.com/dingzhanjun/Road-to-web-3.0)
+* [A list of tools, libs and resources to help you build awesome dapps](https://github.com/JoinColony/awesome-web3)
