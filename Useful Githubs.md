@@ -32,3 +32,4 @@
 * [Web 3 Newbies](https://github.com/Indizr/web3newbies/blob/master/web3newbies.md)
 * [Web 3.0 Resources](https://github.com/FrancescoXX/100-days-of-Web3) and [Road to 3.0](https://github.com/dingzhanjun/Road-to-web-3.0)
 * [A list of tools, libs and resources to help you build awesome dapps](https://github.com/JoinColony/awesome-web3)
+* [Twitter like Web 3 project](https://github.com/Zeno3463/web3.0-twitter-clone)
