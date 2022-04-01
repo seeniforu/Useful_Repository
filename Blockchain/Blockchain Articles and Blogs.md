@@ -35,4 +35,5 @@
 * [akeo blog](https://blogs.akeo.tech/)
 * [Blockchain news Today](https://blockchainnewstoday.com/category/articles/) - Use archives and categories.
 * [Arch ethic](https://archethic.net/blog/)
+* [Session Blog](https://getsession.org/blog) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 
