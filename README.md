@@ -1,7 +1,7 @@
 <h1 align="center">Useful Repository for Everyone</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91478125/156699265-78aeca40-c579-4450-8fd6-5736daa53d8b.svg" width="400"></img>
+  <img src="https://user-images.githubusercontent.com/91478125/161239752-80c0c286-e6e4-4a07-b7f3-b7a103d7f12d.jpg" width="500"></img>
  </p>
 
 <p align="center">
