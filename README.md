@@ -1,20 +1,22 @@
 <h1 align="center">Useful Repository for Everyone</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91478125/161239752-80c0c286-e6e4-4a07-b7f3-b7a103d7f12d.jpg" width="500"></img>
+  <img src="https://user-images.githubusercontent.com/91478125/161239752-80c0c286-e6e4-4a07-b7f3-b7a103d7f12d.jpg" width="550"></img>  
  </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%231A3AF7&size=23&vCenter=true&width=412&height=23&lines=Stay+Cool+Everything+is+Possible"></img>
 </p>
 
+
 ## Welcome
 
 Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as You.
 
-
 **Attached Useful [DRIVE LINKS](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Drive%20Links.md) Where you can find Google/Mega drive With lots of stuff in it.**
-
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/91478125/161242261-2d81f6e7-7579-461a-9d4a-f32c91e8125b.svg" width="270"></img>
+</p>
 <pre><h2 align = "center"><i><q> Don't Just See Videos and Tutorials
  Start Working, You'll get the Real Learning </q></i></h2></pre>
 
