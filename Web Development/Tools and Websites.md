@@ -35,6 +35,7 @@
 * [Scotch](https://www.digitalocean.com/community) - View entire webpage to see all contents
 * [Dev](https://dev.to/) - Select a hastag and Explore
 * [type4acedemy Articles](https://hype4.academy/articles)
+* [Toptal](https://www.toptal.com/developers/blog) - Blog for Developers
 
 
 ## Github Repositories for Developers
