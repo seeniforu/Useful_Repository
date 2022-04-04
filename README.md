@@ -53,6 +53,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 ### Are you going to Start Learning
 - I'm Adding Index of all websites So you can Select and Learn whatever you want. These have enough Content to Create whatever you want at Basic Level
 
+  - [Odin Project](https://www.theodinproject.com/) - Full stack curriculum with basic Topics.
   - [W3 Schools](https://www.w3schools.com/) - Select tutorials to choose a Subject
   - [Tutorials point](https://www.tutorialspoint.com/tutorialslibrary.htm)
   - [Java Point](https://www.javatpoint.com/)
@@ -62,6 +63,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
   - [Programiz](https://www.programiz.com/)
   - [Sanfoundry](https://www.sanfoundry.com/) Has all types of MCQ's
   - [Test Automation University](https://testautomationu.applitools.com/) - For QA's
+  - Data Structures [Visualgo](https://visualgo.net/en) and [Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 
 ### Free Video tutorials Youtube
 #### Web development (Beginners) - Explore these youtube channel for More tutorials
