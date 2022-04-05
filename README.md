@@ -40,6 +40,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
 * Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/), [Projects world](https://projectworlds.in/), [circuit digest](https://circuitdigest.com/ai-projects-and-tutorials)
+* Play [Cool Music](https://lofi.co/) when working on Something.
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
