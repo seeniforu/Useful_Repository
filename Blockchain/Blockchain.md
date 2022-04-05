@@ -135,3 +135,4 @@ Take a look at these Articles
 * [Hands-On Approach (IPFS + Ethereum)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
 * [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application)
 * [How to build on Web 3](https://www.freecodecamp.org/news/what-is-web3/) - End of page, Ethereum development tutorial
+* [Create a dApp](https://dev.to/xamhans/how-to-create-a-dapp-with-react-solidity-on-ethereum-blockchain-1gg0) - Solidity, React etc.,
