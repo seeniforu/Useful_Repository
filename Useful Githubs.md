@@ -1,6 +1,11 @@
 
 # Useful Github Repositories
 
+A Collection of Github Repository Useful for Web and Blockchain Developers.
+If I Found Useful One Next time I'll Add it here.
+
+### 🎉 *Credits To All Github Account Holders 👏 Thanks For Creating Knowledgeble and Useful Github Repositories.*
+
 ## Github Repositories - Web Dev
 
 * Developer [Road Map](https://github.com/kamranahmedse/developer-roadmap)
@@ -39,6 +44,7 @@
 * [Technical-Subjects](https://github.com/mrpawan-gupta/Technical-Subjects): The Repository Contains All the Technical Stuff's Related To SDE
 * [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects): This is a curated list of amazing hackathon projects
 * [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science (multiple languages)
+* [Computer Science Papers](https://github.com/papers-we-love/papers-we-love) - Security Data Science Papers, Best Paper Awards in Computer Science etc.,
 
 ## Github Repositories - BlockChain
 
@@ -77,4 +83,6 @@
 * [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security): A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 * [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer): Get All Registered Wifi Passwords from Target Computer.
 * [Hacking Tool](https://github.com/Z4nzu/hackingtool): All in One.
+
+
 
