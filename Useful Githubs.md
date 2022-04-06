@@ -15,36 +15,41 @@ If I Found Useful One Next time I'll Add it here.
 * [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-* [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
 * [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Modern Web-Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* Front End [Interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 
 * [Web-dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
 * [Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+## Github Repositories - Interview Questions and Materials
+
+* [Awsome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated list of lists of technical interview questions.
+* [Coding-interview-university](https://github.com/jwasham/coding-interview-university#books-for-data-structures-and-algorithms): A complete computer science study plan to become a software engineer.
+* [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
+* Front End [Interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated interview preparation materials for busy engineers
+* [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science (multiple languages)
+* [Computer Science Papers](https://github.com/papers-we-love/papers-we-love) - Security Data Science Papers, Best Paper Awards in Computer Science etc.,
+* [Technical-Subjects](https://github.com/mrpawan-gupta/Technical-Subjects): The Repository Contains All the Technical Stuff's Related To SDE
+
 
 ## Github Repositories - Common
 
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 * [100 days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-* [Coding interview university](https://github.com/jwasham/coding-interview-university)
 * [Free For Developers](https://github.com/ripienaar/free-for-dev#table-of-contents)
 * [The Art of command Line](https://github.com/jlevy/the-art-of-command-line)
 * [The Algorithms](https://github.com/orgs/TheAlgorithms/repositories)
 * [Project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
-* [Coding-interview-university](https://github.com/jwasham/coding-interview-university#books-for-data-structures-and-algorithms): A complete computer science study plan to become a software engineer.
 * [Everything at one place😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 * [vinta/awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources
 * List of [useful websites/awesome-osint](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT
-* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated interview preparation materials for busy engineers
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings): The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 * [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops): Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): 🎉 An awesome & curated list of best applications and tools for Windows.
 * [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
-* [Technical-Subjects](https://github.com/mrpawan-gupta/Technical-Subjects): The Repository Contains All the Technical Stuff's Related To SDE
 * [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects): This is a curated list of amazing hackathon projects
-* [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science (multiple languages)
-* [Computer Science Papers](https://github.com/papers-we-love/papers-we-love) - Security Data Science Papers, Best Paper Awards in Computer Science etc.,
+
 
 ## Github Repositories - BlockChain
 
@@ -83,6 +88,7 @@ If I Found Useful One Next time I'll Add it here.
 * [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security): A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 * [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer): Get All Registered Wifi Passwords from Target Computer.
 * [Hacking Tool](https://github.com/Z4nzu/hackingtool): All in One.
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers, pentesters & security researchers.
 
 
 
