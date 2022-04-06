@@ -20,6 +20,7 @@ If I Found Useful One Next time I'll Add it here.
 * [Web-dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
 * [Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 
 ## Github Repositories - Interview Questions and Materials
 
@@ -36,6 +37,9 @@ If I Found Useful One Next time I'll Add it here.
 ## Github Repositories - Common
 
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
+* [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
+* [Github Cheetsheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [100 days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Free For Developers](https://github.com/ripienaar/free-for-dev#table-of-contents)
 * [The Art of command Line](https://github.com/jlevy/the-art-of-command-line)
@@ -49,6 +53,10 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): 🎉 An awesome & curated list of best applications and tools for Windows.
 * [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
 * [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects): This is a curated list of amazing hackathon projects
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+* [Awesome CV](https://github.com/posquit0/Awesome-CV) - Create CV's.
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
 
 
 ## Github Repositories - BlockChain
