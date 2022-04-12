@@ -36,6 +36,7 @@
 * [Dev](https://dev.to/) - Select a hastag and Explore
 * [type4acedemy Articles](https://hype4.academy/articles)
 * [Toptal](https://www.toptal.com/developers/blog) - Blog for Developers
+* [Security](https://www.varonis.com/blog/page/1) Related Articles.
 
 
 ## Github Repositories for Developers
