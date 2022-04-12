@@ -37,6 +37,7 @@
 * [type4acedemy Articles](https://hype4.academy/articles)
 * [Toptal](https://www.toptal.com/developers/blog) - Blog for Developers
 * [Security](https://www.varonis.com/blog/page/1) Related Articles.
+* Articles for [Security](https://www.wired.com/category/security/). [Ideas](https://www.wired.com/category/ideas/), and [Science](https://www.wired.com/category/science/).
 
 
 ## Github Repositories for Developers
