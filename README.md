@@ -119,8 +119,9 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Helio Host](https://www.heliohost.org/)
 * [AwardSpace](https://www.awardspace.com/)
 
-## Free Online Courses
+## Free Online Courses and Resources
 
+- 13+ [Free Development Certification](https://rahulism.hashnode.dev/13-free-development-certification-to-get-in-2021)
 - [List of Thousands](https://www.classcentral.com/report/free-certificates/) of **Free Certificates and Badges** From Google, LinkedIn, Freecodecamp etc.,
 - [Alison.com Courses](https://alison.com/courses/categories) - Choose category Start Doing.
 - [DigitalDefynd](https://digitaldefynd.com/search/) - Find free and paid courses here.
@@ -132,14 +133,16 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - [Class Central](https://www.classcentral.com/subjects) - Free courses with certificates.
 - [Codeacademy](https://www.codecademy.com/catalog) for Challenges, cheatsheets, [Articles](https://www.codecademy.com/articles), [Blogs](https://www.codecademy.com/resources/blog/)
 - [Sololearn](https://www.sololearn.com/learning) - Free Programming courses, [Blog](https://www.sololearn.com/blog).
+- 320+ **[Free Resources](https://rahulism.hashnode.dev/320-free-resources-for-learning-fullstack-frontend-and-backend)** for learning fullstack, frontend and backend
 
 
 ## Useful Websites Found Online Photo, Video, Document and more editing tools
 
-* [Small Dev Tools](https://smalldev.tools/)
+* [Small Dev Tools](https://smalldev.tools/) - Test data Generator, URL Encode online etc...
 * [Tiny Wow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier, - 100% Free 🔥🔥
 * [All Online Tools in “One Box”](https://10015.io/)
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
+* [Cloud Convert](https://cloudconvert.com/) - CloudConvert is an online file converter it nearly supports all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. Limited free Version Available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
 * Want a **[Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d)** while Teaching or Demonstrating Something
 * Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
@@ -147,8 +150,9 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
-* [Photopea](https://www.photopea.com/) - Free Online photo editor.
-* Remove your video Background - [Website](https://www.unscreen.com/)
+* [Photopea](https://www.photopea.com/) - Free **Online Photo Editor**.
+* Remove **Image Background** - [Slazzer](https://www.slazzer.com/)
+* Remove your **Video Background** - [Website](https://www.unscreen.com/)
 * [Remove Video Background](https://bgrem.deelvin.com/)
 * [Convert text to Voice](https://uberduck.ai/#mode=tts-basic)
 * Convert your photos into cartoon - [Website](https://photocartoon.net/)
@@ -162,6 +166,9 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Website](https://www.privacytools.io/) to find best privacy tools.
 * [Encoding and encryption online](https://cryptii.com/)
 * [Random useful sites](https://www.discuvver.com/), one click at a time.
+* [Command Line Explanation](https://explainshell.com/)
+* [Compare Text](https://text-compare.com/) - in Online.
+* [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
 
 #### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
@@ -191,6 +198,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Freepik](https://www.freepik.com/)
 
 #### Websites For Free Icons 
+
+* [Flat Icon](https://www.flaticon.com/) - Download free icons and stickers for your projects made by and for designers. PNG, SVG, EPS, PSD and BASE 64 formats.
 * [Bootstrap](https://icons.getbootstrap.com/)
 * [Feather Icons](https://feathericons.com/)
 * [StreamLine Icons](https://app.streamlinehq.com/icons)
