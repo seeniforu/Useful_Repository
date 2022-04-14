@@ -27,6 +27,7 @@
 * [Free code camp](https://www.freecodecamp.org/news/) Articles
 * [Daily Articles - CSS tricks](https://css-tricks.com/) for Web developers
 * [Creative Bloq](https://www.creativebloq.com/features)
+* [Hash Node](https://hashnode.com/) - Search for Tags, Articles,Blogs whatever category you want.
 * [Free code camp](https://www.freecodecamp.org/news/tag/blog) Blog Articles
 * [Smashing Magazine](https://www.smashingmagazine.com/category/web-design/) for Web Design
 * [Tutplus](https://webdesign.tutsplus.com/tutorials?_ga=2.259899214.571088166.1645249344-693838120.1628252649) - Change Catagories for different list of topics
@@ -38,6 +39,10 @@
 * [Toptal](https://www.toptal.com/developers/blog) - Blog for Developers
 * [Security](https://www.varonis.com/blog/page/1) Related Articles.
 * Articles for [Security](https://www.wired.com/category/security/). [Ideas](https://www.wired.com/category/ideas/), and [Science](https://www.wired.com/category/science/).
+
+### Personal Developers Blog
+
+* [Rahul](https://rahulism.hashnode.dev/) - HashNode Dev.
 
 
 ## Github Repositories for Developers
