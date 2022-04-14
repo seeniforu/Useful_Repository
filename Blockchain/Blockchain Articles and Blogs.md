@@ -5,8 +5,6 @@
 * Take a Look at [Web 3.0 & Blockchain](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
 * Take a Look at [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
 * [13 Git Repos](https://blog.oliverjumpertz.dev/thirteen-incredible-github-repositories-to-leverage-your-blockchain-learning#heading-12-build-your-own-x) for Blockchain Developer By *OliverJumpertz*
-* [OliverJumpertz - hashnode](https://hashnode.com/@OliverJumpertz) Articles about Blockchain, [Alex Roan - medium](https://medium.com/blockcentric/blockchain-development-resources-b44b752f3248), [Jimmy Song - medium](https://jimmysong.medium.com/)
-* [Vitalik's](https://vitalik.ca/categories/blockchains.html) - Blog
 *  Articles to read for [Blockchain](https://hackernoon.com/tagged/blockchain), [Decentralization](https://hackernoon.com/tagged/Decentralization), ([Web 3.0](https://hackernoon.com/web-30---our-future-or-just-another-buzzword) For more look at Reference Section)
 *  [Medium](https://medium.com/@davidvorick) Articles for Web 3. [Sia](https://blog.sia.tech/), [War of free internet](https://blog.sia.tech/the-war-for-a-free-internet-c0a7fcc00c46)
 *  [FAQ](https://bitcoin.org/en/faq#general) for Bitcoin.
@@ -36,4 +34,16 @@
 * [Blockchain news Today](https://blockchainnewstoday.com/category/articles/) - Use archives and categories.
 * [Arch ethic](https://archethic.net/blog/)
 * [Session Blog](https://getsession.org/blog) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
+* [Developer DAO](https://blog.developerdao.com/wtf-is-the-blockchain) - Use Home For More Articles.
+
+### Developers Personal Blogs
+
+* [OliverJumpertz - hashnode](https://hashnode.com/@OliverJumpertz) Articles about Blockchain
+* [Alex Roan - medium](https://medium.com/blockcentric/blockchain-development-resources-b44b752f3248)
+* [Jimmy Song - medium](https://jimmysong.medium.com/)
+* [Vitalik's](https://vitalik.ca/categories/blockchains.html) - Blog
+* [Maverick](https://blog.mavrick.dev/) - Blockchain Dev Articles.
+* [suhailkakar](https://blog.suhailkakar.com/) - Web 3.0 Resources, Articles, roadmap etc.,
+* [therevealer](https://therevealer.hashnode.dev/) - Hashnode dev, Article : How To Solve Coding Problems Like A Pro...
+* [idrisolubisi](https://blog.idrisolubisi.com/) - Web 3.0, Resources, Defi, and More Articles...
 
