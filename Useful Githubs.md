@@ -16,16 +16,19 @@ If I Found Useful One Next time I'll Add it here.
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [Modern Web-Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Web-dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
 * [Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+* [How-web-works](https://github.com/vasanthk/how-web-works)
 
 ## Github Repositories - Interview Questions and Materials
 
 * [Awsome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated list of lists of technical interview questions.
 * [Coding-interview-university](https://github.com/jwasham/coding-interview-university#books-for-data-structures-and-algorithms): A complete computer science study plan to become a software engineer.
+* [Everything you need to prepare](https://github.com/Olshansk/interview) for your technical interview
 * [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
 * Front End [Interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated interview preparation materials for busy engineers
@@ -41,6 +44,7 @@ If I Found Useful One Next time I'll Add it here.
 * [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
 * [Github Cheetsheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [100 days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* [Learn Go](https://github.com/inancgumus/learngo)
 * [Free For Developers](https://github.com/ripienaar/free-for-dev#table-of-contents)
 * [The Art of command Line](https://github.com/jlevy/the-art-of-command-line)
 * [The Algorithms](https://github.com/orgs/TheAlgorithms/repositories)
@@ -80,6 +84,7 @@ If I Found Useful One Next time I'll Add it here.
 
 ## Github Repositories - Hacking and Web Security
 
+* [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything): A repository about security engineering.
 * [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking#reverse-engineering): A curated list of awesome Hacking tutorials, tools and resources
 * [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots): an awesome list of honeypot resources
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis#domain-analysis): Defund the Police.
