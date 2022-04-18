@@ -63,6 +63,7 @@ If I Found Useful One Next time I'll Add it here.
 * [Selenium Documentation](https://github.com/SeleniumHQ/selenium)
 * [Selenium Documentation Example](https://github.com/prisma-archive/chromeless)
 * [Automatic-Udemy-Course-Enroller **Code for scraping**](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
+* [Awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing)
 
 
 
