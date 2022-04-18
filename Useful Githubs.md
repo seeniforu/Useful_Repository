@@ -60,11 +60,17 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - Create CV's.
+
+
+## Github Repositories - Java & Selenium
+
 * [Selenium Documentation](https://github.com/SeleniumHQ/selenium)
 * [Selenium Documentation Example](https://github.com/prisma-archive/chromeless)
 * [Automatic-Udemy-Course-Enroller **Code for scraping**](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
 * [Awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing)
-
+* [java-multithreading](https://github.com/RameshMF/java-multithreading)
+* [MultithreadRestaurant](https://github.com/kaichunwu/MultithreadRestaurant)
+* [MultiThreading-Codes](https://github.com/abhinavece/MultiThreading-Codes)
 
 
 ## Github Repositories - BlockChain
