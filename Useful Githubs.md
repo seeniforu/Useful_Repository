@@ -60,7 +60,10 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - Create CV's.
-* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
+* [Selenium Documentation](https://github.com/SeleniumHQ/selenium)
+* [Selenium Documentation Example](https://github.com/prisma-archive/chromeless)
+* [Automatic-Udemy-Course-Enroller **Code for scraping**](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
+
 
 
 ## Github Repositories - BlockChain
@@ -102,6 +105,7 @@ If I Found Useful One Next time I'll Add it here.
 * [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer): Get All Registered Wifi Passwords from Target Computer.
 * [Hacking Tool](https://github.com/Z4nzu/hackingtool): All in One.
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers, pentesters & security researchers.
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
 
 
 
