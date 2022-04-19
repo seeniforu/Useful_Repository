@@ -23,7 +23,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 ## Table of Contents
 
-* [Free Online Courses](#free-online-courses)
+* [Free Online Courses](#free-online-courses-and-resources)
 * [Online Tutorials for all Topics](#are-you-going-to-start-learning)
 * [Web developers tutorials](#free-video-tutorials-youtube) and [Tools & Websites](https://github.com/seeniforu/Useful_Repository/blob/main/Web%20Development/Tools%20and%20Websites.md) - (Coding practice platforms, Articles and blogs, CSS tools etc.,)
 * [Useful Websites Found Online](#useful-websites-found-online-photo-video-document-and-more-editing-tools) and [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - (Photo and Video editing tools)
@@ -34,7 +34,8 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * [Free Web hosting](#free-hosting-resource)
 
 ## Take a Look
-* Want to [Create a Portfolio](https://github.com/seeniforu/Useful_Repository/blob/main/Portfolio's.md) to show in interview's
+* Want to [Create a Portfolio](https://github.com/seeniforu/Useful_Repository/blob/main/Portfolio's.md) to Attract Recruiters.
+  * [What is Portfolio](https://learntocodewith.me/posts/portfolio-tips/) and Why you Need it. Example of [15 Portfolio](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/) + [30 Portfolio](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw) - Interesting Right Start Create One! 
 * Want to [Create a Attractive Resume](https://github.com/seeniforu/Useful_Repository/blob/main/Resume%20Templates.md) My Personal Opinion is to use online Free templates which are Attractive and Simple. 
 * Here are Some Collection of [GitHub Repos](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md) I find it very useful.
 * Have a Habit of **Creating Your Own 'Something'** after you got attracted or after learning things, [Must visit Repo](https://github.com/danistefanovic/build-your-own-x) to build on your own X.
