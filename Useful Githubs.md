@@ -41,7 +41,6 @@ If I Found Useful One Next time I'll Add it here.
 
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
-* [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
 * [Github Cheetsheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [100 days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Learn Go](https://github.com/inancgumus/learngo)
@@ -60,7 +59,9 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - Create CV's.
-
+* [ossu/computer-science](https://github.com/ossu/computer-science#introduction-to-programming) - Path to a free self-taught education in Computer Science!
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+* [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
 
 ## Github Repositories - Java & Selenium
 
