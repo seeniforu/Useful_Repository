@@ -12,9 +12,16 @@ If I Found Useful One Next time I'll Add it here.
 * [30-Seconds-Of-Code](https://github.com/30-seconds/30-seconds-of-code)
 * [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [CSS-Protips](https://github.com/AllThingsSmitty/css-protips)
+* [css-reference](https://github.com/jgthms/css-reference)
+* [magic-of-css](https://github.com/adamschwartz/magic-of-css)
+* [awesome-css-grid](https://github.com/valentinogagliardi/awesome-css-grid)
+* [Gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 
 * [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+* [Project-checklist](https://github.com/amilajack/project-checklist) - A checklist of things to do before releasing your project
 * [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [Modern Web-Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
