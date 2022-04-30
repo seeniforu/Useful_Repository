@@ -31,6 +31,11 @@ If I Found Useful One Next time I'll Add it here.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 * [How-web-works](https://github.com/vasanthk/how-web-works)
 
+## Github Repositories - Web Dev Libraries
+
+* [swup](https://github.com/swup/swup) - Complete, flexible, extensible and easy to use page transition library for your static web.
+* [Public-API's](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+
 ## Github Repositories - Interview Questions and Materials
 
 * [Awsome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated list of lists of technical interview questions.
@@ -69,6 +74,7 @@ If I Found Useful One Next time I'll Add it here.
 * [ossu/computer-science](https://github.com/ossu/computer-science#introduction-to-programming) - Path to a free self-taught education in Computer Science!
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
+* [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 
 ## Github Repositories - Java & Selenium
 
@@ -121,6 +127,7 @@ If I Found Useful One Next time I'll Add it here.
 * [Hacking Tool](https://github.com/Z4nzu/hackingtool): All in One.
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers, pentesters & security researchers.
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 
 
 
