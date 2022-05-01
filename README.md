@@ -127,6 +127,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - [Alison.com Courses](https://alison.com/courses/categories) - Choose category Start Doing.
 - [DigitalDefynd](https://digitaldefynd.com/search/) - Find free and paid courses here.
 - [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
+- [Harvard Courses](https://pll.harvard.edu/catalog/free)
 - [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
 - [Michigan University course](https://www.coursera.org/learn/python) - Programming for Everybody (Getting Started with Python)
@@ -172,6 +173,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Compare Text](https://text-compare.com/) - in Online.
 * [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
 * [JSON Viewer](https://jsonhero.io/) - Clearly view a bunch of JSON file.
+* [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
 
 #### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
