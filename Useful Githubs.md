@@ -51,6 +51,8 @@ If I Found Useful One Next time I'll Add it here.
 
 ## Github Repositories - Common
 
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+* [App-ideas](https://github.com/florinpop17/app-ideas) - Use Pull Request for more Ideas.
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
 * [Github Cheetsheet](https://github.com/tiimgreen/github-cheat-sheet)
