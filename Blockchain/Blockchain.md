@@ -16,6 +16,7 @@ Take a look at these Articles
 * [Web 3.0 Foundation](https://medium.com/web3foundation)
 * [Radicle is a peer-to-peer stack for building software together](https://radicle.xyz/)
 * [Learning Lab](https://learn.uno/) - explore topics, Web3, Dapps and and others in learning tools.
+* [Cryptozombies](https://cryptozombies.io/) - CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
 
 **Useful tools,**
 
