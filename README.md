@@ -42,7 +42,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
 * Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/), [Projects world](https://projectworlds.in/), [circuit digest](https://circuitdigest.com/ai-projects-and-tutorials)
-* Play [Cool Music](https://lofi.co/) when working on Something.
+* Play [Cool Music](https://lofi.co/) or [Rain, Wind Sound](https://asoftmurmur.com/) etc., when working on Something.
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
@@ -176,6 +176,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
 * [Bannereasy](https://www.bannereasy.com/) - Create your own customized banners online.
 * [Take Typing Tests Online](https://www.typing.com/student/tests)
+* [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
+* [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
 
 #### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
