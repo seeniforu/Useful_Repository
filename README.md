@@ -174,6 +174,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
 * [JSON Viewer](https://jsonhero.io/) - Clearly view a bunch of JSON file.
 * [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
+* [Bannereasy](https://www.bannereasy.com/) - Create your own customized banners online.
+* [Take Typing Tests Online](https://www.typing.com/student/tests)
 
 #### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
@@ -214,6 +216,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Ever Icons](http://www.evericons.com/)
 * [Iconfinder](https://www.iconfinder.com/) (Free + Paid)
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
+* [Icon Packs](https://www.iconpacks.net/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C31F7&lines=Back+to+Top..)](#welcome)
 
