@@ -12,9 +12,16 @@ If I Found Useful One Next time I'll Add it here.
 * [30-Seconds-Of-Code](https://github.com/30-seconds/30-seconds-of-code)
 * [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [CSS-Protips](https://github.com/AllThingsSmitty/css-protips)
+* [css-reference](https://github.com/jgthms/css-reference)
+* [magic-of-css](https://github.com/adamschwartz/magic-of-css)
+* [awesome-css-grid](https://github.com/valentinogagliardi/awesome-css-grid)
+* [Gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 
 * [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+* [Project-checklist](https://github.com/amilajack/project-checklist) - A checklist of things to do before releasing your project
 * [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [Modern Web-Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
@@ -23,6 +30,11 @@ If I Found Useful One Next time I'll Add it here.
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 * [How-web-works](https://github.com/vasanthk/how-web-works)
+
+## Github Repositories - Web Dev Libraries
+
+* [swup](https://github.com/swup/swup) - Complete, flexible, extensible and easy to use page transition library for your static web.
+* [Public-API's](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 
 ## Github Repositories - Interview Questions and Materials
 
@@ -39,6 +51,8 @@ If I Found Useful One Next time I'll Add it here.
 
 ## Github Repositories - Common
 
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+* [App-ideas](https://github.com/florinpop17/app-ideas) - Use Pull Request for more Ideas.
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
 * [Github Cheetsheet](https://github.com/tiimgreen/github-cheat-sheet)
@@ -62,6 +76,7 @@ If I Found Useful One Next time I'll Add it here.
 * [ossu/computer-science](https://github.com/ossu/computer-science#introduction-to-programming) - Path to a free self-taught education in Computer Science!
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
+* [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 
 ## Github Repositories - Java & Selenium
 
@@ -114,6 +129,7 @@ If I Found Useful One Next time I'll Add it here.
 * [Hacking Tool](https://github.com/Z4nzu/hackingtool): All in One.
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers, pentesters & security researchers.
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 
 
 

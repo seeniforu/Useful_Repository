@@ -42,7 +42,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * Want to [Learn Anything](https://learn-anything.xyz/) - Search for any Topics.
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
 * Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/), [Projects world](https://projectworlds.in/), [circuit digest](https://circuitdigest.com/ai-projects-and-tutorials)
-* Play [Cool Music](https://lofi.co/) when working on Something.
+* Play [Cool Music](https://lofi.co/) or [Rain, Wind Sound](https://asoftmurmur.com/) etc., when working on Something.
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
@@ -127,6 +127,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - [Alison.com Courses](https://alison.com/courses/categories) - Choose category Start Doing.
 - [DigitalDefynd](https://digitaldefynd.com/search/) - Find free and paid courses here.
 - [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
+- [Harvard Courses](https://pll.harvard.edu/catalog/free)
 - [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
 - [Michigan University course](https://www.coursera.org/learn/python) - Programming for Everybody (Getting Started with Python)
@@ -141,6 +142,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 * [Small Dev Tools](https://smalldev.tools/) - Test data Generator, URL Encode online etc...
 * [Tiny Wow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier, - 100% Free 🔥🔥
+* [Newisty](https://newisty.com/) - Image Processing, SEO and Dev tools.
 * [All Online Tools in “One Box”](https://10015.io/)
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Cloud Convert](https://cloudconvert.com/) - CloudConvert is an online file converter it nearly supports all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. Limited free Version Available.
@@ -170,6 +172,12 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Command Line Explanation](https://explainshell.com/)
 * [Compare Text](https://text-compare.com/) - in Online.
 * [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
+* [JSON Viewer](https://jsonhero.io/) - Clearly view a bunch of JSON file.
+* [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
+* [Bannereasy](https://www.bannereasy.com/) - Create your own customized banners online.
+* [Take Typing Tests Online](https://www.typing.com/student/tests)
+* [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
+* [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
 
 #### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
@@ -210,6 +218,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Ever Icons](http://www.evericons.com/)
 * [Iconfinder](https://www.iconfinder.com/) (Free + Paid)
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
+* [Icon Packs](https://www.iconpacks.net/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C31F7&lines=Back+to+Top..)](#welcome)
 
