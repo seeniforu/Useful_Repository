@@ -157,7 +157,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * **[Remove Watermark](https://www.watermarkremover.io/) - Remove Watermarks from Your Images for FREE**
 * [Remove Video Background](https://bgrem.deelvin.com/)
 * [Convert text to Voice](https://uberduck.ai/#mode=tts-basic)
-* Convert your photos into cartoon - [Website](https://photocartoon.net/)
+* [Convert your photos into cartoon](https://photocartoon.net/)
 * Create professional AI videos from text in 60+ languages. Synthesia saves you money, time and quite some nerves - [Website](https://www.synthesia.io/)
 * To create professional and fully customized videos your audience will love. - [Website](https://www.powtoon.com/)
 * **To find a Photo is edited or not** - [Website](http://fotoforensics.com/)
@@ -177,8 +177,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
 * [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
 * [Reverse Image Search](https://tineye.com/) 
-* **[Cheatsheets](https://cheatography.com/) - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!
-* [Take Typing Tests Online](https://www.typing.com/student/tests)
+* **[Cheatsheets](https://cheatography.com/) - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!**
+* **[Take Typing Tests Online](https://www.typing.com/student/tests)**
 * [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
 * [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
 * [twoseven](https://twoseven.xyz/) - Watch Movies and Videos with Friends Virtually.
@@ -232,6 +232,18 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 * [Icon Packs](https://www.iconpacks.net/)
 * [glyphsearch](https://glyphsearch.com/) - Search for Icons.
+
+### 3D Illustrations and Animation Tools
+
+* [Isometric Love](https://www.isometriclove.com/)
+* [IsoFlat](https://isoflat.com/)
+* [3D Shapes Pack](https://dribbble.com/shots/3421366-3D-shapes-pack#)
+* [Animation Tool](https://mojs.github.io/)
+* [Kute.js](https://thednp.github.io/kute.js/)
+* [Parallax](https://simpleparallax.com/)
+* [Granime.js](https://sarcadass.github.io/granim.js/)
+* [Ember burger menu](https://sarcadass.github.io/granim.js/)
+* [Animated letters](https://tympanus.net/Development/AnimatedLetters/index.html)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C31F7&lines=Back+to+Top..)](#welcome)
 
