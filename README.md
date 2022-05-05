@@ -156,6 +156,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Photopea](https://www.photopea.com/) - Free **Online Photo Editor**.
 * Remove **Image Background** - [Slazzer](https://www.slazzer.com/)
 * Remove your **Video Background** - [Website](https://www.unscreen.com/)
+* **[Remove Watermark](https://www.watermarkremover.io/) - Remove Watermarks from Your Images for FREE**
 * [Remove Video Background](https://bgrem.deelvin.com/)
 * [Convert text to Voice](https://uberduck.ai/#mode=tts-basic)
 * Convert your photos into cartoon - [Website](https://photocartoon.net/)
@@ -178,6 +179,11 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Take Typing Tests Online](https://www.typing.com/student/tests)
 * [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
 * [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
+* [twoseven](https://twoseven.xyz/) - Watch Movies and Videos with Friends Virtually.
+* [generated photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
+* [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
+* [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
+* [Reverse Image Search](https://tineye.com/) 
 
 #### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
@@ -219,6 +225,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Iconfinder](https://www.iconfinder.com/) (Free + Paid)
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 * [Icon Packs](https://www.iconpacks.net/)
+* [glyphsearch](https://glyphsearch.com/) - Search for Icons.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233C31F7&lines=Back+to+Top..)](#welcome)
 
