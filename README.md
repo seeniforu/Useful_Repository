@@ -139,6 +139,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 
 ## Useful Websites Found Online Photo, Video, Document and more editing tools
+### Creation and Editing Tools
 
 * [Small Dev Tools](https://smalldev.tools/) - Test data Generator, URL Encode online etc...
 * [Tiny Wow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier, - 100% Free 🔥🔥
@@ -147,9 +148,6 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Cloud Convert](https://cloudconvert.com/) - CloudConvert is an online file converter it nearly supports all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. Limited free Version Available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
-* Want a **[Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d)** while Teaching or Demonstrating Something
-* Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
-* Want to **[Create Diagram and Flow Chart](https://www.diagrams.net/)** for Easy Understanding
 * Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
@@ -167,7 +165,24 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Pattern ninja](https://patterninja.com/) - Patterninja is a pattern making application.
 * [Pic2Map Photo Location Viewer](https://www.pic2map.co)
 * [Online paint tool](https://kleki.com/)
-* [Website](https://www.privacytools.io/) to find best privacy tools.
+* [Bannereasy](https://www.bannereasy.com/) - Create your own customized banners online.
+* [generated photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
+
+
+### Common
+
+* Want a **[Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d)** while Teaching or Demonstrating Something
+* Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
+* Want to **[Create Diagram and Flow Chart](https://www.diagrams.net/)** for Easy Understanding
+* [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
+* [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
+* [Reverse Image Search](https://tineye.com/) 
+* **[Cheatsheets](https://cheatography.com/) - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!
+* [Take Typing Tests Online](https://www.typing.com/student/tests)
+* [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
+* [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
+* [twoseven](https://twoseven.xyz/) - Watch Movies and Videos with Friends Virtually.
+* [Privacy tools Website](https://www.privacytools.io/) to find best privacy tools.
 * [Encoding and encryption online](https://cryptii.com/)
 * [Random useful sites](https://www.discuvver.com/), one click at a time.
 * [Command Line Explanation](https://explainshell.com/)
@@ -175,17 +190,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
 * [JSON Viewer](https://jsonhero.io/) - Clearly view a bunch of JSON file.
 * [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
-* [Bannereasy](https://www.bannereasy.com/) - Create your own customized banners online.
-* [Take Typing Tests Online](https://www.typing.com/student/tests)
-* [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
-* [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
-* [twoseven](https://twoseven.xyz/) - Watch Movies and Videos with Friends Virtually.
-* [generated photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
-* [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
-* [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
-* [Reverse Image Search](https://tineye.com/) 
 
-#### Websites For Free PNG Images High Resolution Image For free download
+### Websites For Free PNG Images High Resolution Image For free download
 * [Stick PNG](https://www.stickpng.com/)
 * [Free PNG](https://freepngimg.com/)
 * [PNG River](https://pngriver.com/)
@@ -212,7 +218,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [tookapic](https://stock.tookapic.com)
 * [Freepik](https://www.freepik.com/)
 
-#### Websites For Free Icons 
+### Websites For Free Icons 
 
 * [Flat Icon](https://www.flaticon.com/) - Download free icons and stickers for your projects made by and for designers. PNG, SVG, EPS, PSD and BASE 64 formats.
 * [Bootstrap](https://icons.getbootstrap.com/)
