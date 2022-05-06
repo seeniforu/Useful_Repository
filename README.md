@@ -52,6 +52,15 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
   * [Tio](https://tio.run/#) - Online compiler for 680 Langauges.
   * List of [Online Compilers](https://www.programiz.com/python-programming/online-compiler/) - User can select different language at the left side of window.  
 
+* Here are some Cheatsheets
+
+  * **[Cheatsheets](https://cheatography.com/) - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!**
+  * [Over API](https://overapi.com/) - Cheatsheets in Alphabetical Order.
+  * [Devhints](https://devhints.io/) - Search For a Cheetsheet.
+  * [CSS Reference](https://cssreference.io/) - A free visual guide to CSS.
+  * [HTML, CSS, JS](https://html-css-js.com/css/) - Cheatsheets, Generators, Templates, Blog etc.,
+  * [Java Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+
 ## For Developers (Must See)
 ### Are you going to Start Learning
 - I'm Adding Index of all websites So you can Select and Learn whatever you want. These have enough Content to Create whatever you want at Basic Level
@@ -148,10 +157,10 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Cloud Convert](https://cloudconvert.com/) - CloudConvert is an online file converter it nearly supports all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. Limited free Version Available.
 * [Hidden tools](https://www.hiddentools.dev/) - Search for a tool here  
-* Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
 * [Photopea](https://www.photopea.com/) - Free **Online Photo Editor**.
+* Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * Remove **Image Background** - [Slazzer](https://www.slazzer.com/)
 * Remove your **Video Background** - [Website](https://www.unscreen.com/)
 * **[Remove Watermark](https://www.watermarkremover.io/) - Remove Watermarks from Your Images for FREE**
@@ -177,7 +186,6 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
 * [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
 * [Reverse Image Search](https://tineye.com/) 
-* **[Cheatsheets](https://cheatography.com/) - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!**
 * **[Take Typing Tests Online](https://www.typing.com/student/tests)**
 * [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
 * [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
@@ -192,6 +200,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
 
 ### Websites For Free PNG Images High Resolution Image For free download
+
+* **[Remove Watermark](https://www.watermarkremover.io/) and [Remove Unwanted objects](https://theinpaint.com/) - Use This If Image Contains Watermark.**
 * [Stick PNG](https://www.stickpng.com/)
 * [Free PNG](https://freepngimg.com/)
 * [PNG River](https://pngriver.com/)
