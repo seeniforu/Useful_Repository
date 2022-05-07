@@ -39,6 +39,7 @@
 * [Toptal](https://www.toptal.com/developers/blog) - Blog for Developers
 * [Security](https://www.varonis.com/blog/page/1) Related Articles.
 * Articles for [Security](https://www.wired.com/category/security/). [Ideas](https://www.wired.com/category/ideas/), and [Science](https://www.wired.com/category/science/).
+* [Tech-blogs](https://tech-blogs.dev/) - list of Awesome Tech Blogs.
 
 ### Personal Developers Blog
 
