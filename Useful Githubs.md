@@ -8,6 +8,8 @@ If I Found Useful One Next time I'll Add it here.
 
 ## Github Repositories - Web Dev
 
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Html, css Templates etc.,
+* [webDevsCom](https://github.com/WebDevsCom/webDevsCom) - Goto website in description - Portfolio's, Git Repositories etc., - All kinds of resources for Developers
 * Developer [Road Map](https://github.com/kamranahmedse/developer-roadmap)
 * [30-Seconds-Of-Code](https://github.com/30-seconds/30-seconds-of-code)
 * [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
@@ -47,6 +49,8 @@ If I Found Useful One Next time I'll Add it here.
 * [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science (multiple languages)
 * [Computer Science Papers](https://github.com/papers-we-love/papers-we-love) - Security Data Science Papers, Best Paper Awards in Computer Science etc.,
 * [Technical-Subjects](https://github.com/mrpawan-gupta/Technical-Subjects): The Repository Contains All the Technical Stuff's Related To SDE
+* [angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) 
+* [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
 
 
 ## Github Repositories - Common
@@ -54,7 +58,6 @@ If I Found Useful One Next time I'll Add it here.
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 * [App-ideas](https://github.com/florinpop17/app-ideas) - Use Pull Request for more Ideas.
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
 * [Github Cheetsheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [100 days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [Learn Go](https://github.com/inancgumus/learngo)
@@ -62,17 +65,19 @@ If I Found Useful One Next time I'll Add it here.
 * [The Art of command Line](https://github.com/jlevy/the-art-of-command-line)
 * [The Algorithms](https://github.com/orgs/TheAlgorithms/repositories)
 * [Project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
-* [Everything at one place😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-* [vinta/awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources
-* List of [useful websites/awesome-osint](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings): The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 * [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops): Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
-* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): 🎉 An awesome & curated list of best applications and tools for Windows.
-* [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
-* [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects): This is a curated list of amazing hackathon projects
+* [Awesome lists about all kinds of interesting topics - Everything at one place😎](https://github.com/sindresorhus/awesome)
+* [Awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects): This is a curated list of amazing hackathon projects
+* [Awesome-python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - Create CV's.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
+* [Awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+* [Awesome-osint - useful websites](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT
+* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): 🎉 An awesome & curated list of best applications and tools for Windows.
+* [Awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
 * [ossu/computer-science](https://github.com/ossu/computer-science#introduction-to-programming) - Path to a free self-taught education in Computer Science!
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
