@@ -2,6 +2,8 @@
 # My Articles Collection
 
 ## Want to Study Trending Technology Why Not Block Chain
+### Part - 1
+
 * Take a Look at [Web 3.0 & Blockchain](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
 * Take a Look at [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
 * [13 Git Repos](https://blog.oliverjumpertz.dev/thirteen-incredible-github-repositories-to-leverage-your-blockchain-learning#heading-12-build-your-own-x) for Blockchain Developer By *OliverJumpertz*
@@ -36,6 +38,11 @@
 * [Session Blog](https://getsession.org/blog) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 * [Developer DAO](https://blog.developerdao.com/wtf-is-the-blockchain) - Use Home For More Articles.
 
+### Part - 2
+
+* https://soliditytips.com/
+* https://www.useweb3.xyz/ - 
+
 ### Developers Personal Blogs
 
 * [OliverJumpertz - hashnode](https://hashnode.com/@OliverJumpertz) Articles about Blockchain
@@ -46,4 +53,5 @@
 * [suhailkakar](https://blog.suhailkakar.com/) - Web 3.0 Resources, Articles, roadmap etc.,
 * [therevealer](https://therevealer.hashnode.dev/) - Hashnode dev, Article : How To Solve Coding Problems Like A Pro...
 * [idrisolubisi](https://blog.idrisolubisi.com/) - Web 3.0, Resources, Defi, and More Articles...
+* [Arpan Pandey](https://blog.hackersreboot.tech/) - Blockchain etc.,
 
