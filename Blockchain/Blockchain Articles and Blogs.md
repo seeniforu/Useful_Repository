@@ -41,7 +41,8 @@
 ### Part - 2
 
 * https://soliditytips.com/
-* https://www.useweb3.xyz/ - 
+* https://www.useweb3.xyz/ - Books, code challenges, tutorials, guides, courses etc.,
+* https://coinmarketcap.com/alexandria/categories/blog - Learn and Topics Section.
 
 ### Developers Personal Blogs
 
@@ -54,4 +55,5 @@
 * [therevealer](https://therevealer.hashnode.dev/) - Hashnode dev, Article : How To Solve Coding Problems Like A Pro...
 * [idrisolubisi](https://blog.idrisolubisi.com/) - Web 3.0, Resources, Defi, and More Articles...
 * [Arpan Pandey](https://blog.hackersreboot.tech/) - Blockchain etc.,
+* [Shivashish](https://shiva.hashnode.dev/series/blockchain-tutorial) - Blockchain topics.
 
