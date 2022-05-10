@@ -43,6 +43,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
 * Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/), [Projects world](https://projectworlds.in/), [circuit digest](https://circuitdigest.com/ai-projects-and-tutorials)
 * Play [Cool Music](https://lofi.co/) or [Rain, Wind Sound](https://asoftmurmur.com/) etc., when working on Something.
+* [PDF Drive](https://www.pdfdrive.com/) - Search for books, tutorials, manuals and authors, [Free Computer Books](https://www.onlineprogrammingbooks.com/) and [Internet Archive](https://archive.org/) is a non-profit library of millions of free books, movies, software, music, websites, and more.
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
@@ -150,6 +151,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 ## Useful Websites Found Online Photo, Video, Document and more editing tools
 ### Creation and Editing Tools
 
+* [IT Tools](https://it-tools.tech/) - Hash Text, Encrypt/decrypt text, QR code Generator etc...
 * [Small Dev Tools](https://smalldev.tools/) - Test data Generator, URL Encode online etc...
 * [Tiny Wow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier, - 100% Free 🔥🔥
 * [Newisty](https://newisty.com/) - Image Processing, SEO and Dev tools.
