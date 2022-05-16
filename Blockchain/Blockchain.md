@@ -27,6 +27,9 @@ Take a look at these Articles
 ### Youtube Tutorials
 
 * BlockChain [Youtube](https://youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
+* [DApp University](https://www.youtube.com/c/DappUniversity/playlists)
+* [Poly Code](https://www.youtube.com/c/JonasBostoen/featured) - Topics that are covered include web 3, Ethereum, and cryptocurrencies such as Bitcoin and Litecoin.
+* [Block Explorer](https://www.youtube.com/channel/UCTJxrTdQWFGtKxTeincy9uA) - Videos are organized into categories like Introduction to Dapps, Getting Started With Smart Contracts, Learn Solidity, and Blockchain Basics.
 
 ### What is a Blockchain
 * *Stuart Haber & W. Scott Stornetta, (1991).* [How to Time Stamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
