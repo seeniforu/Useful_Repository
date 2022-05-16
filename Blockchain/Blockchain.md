@@ -27,9 +27,15 @@ Take a look at these Articles
 ### Youtube Tutorials
 
 * BlockChain [Youtube](https://youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
-* [DApp University](https://www.youtube.com/c/DappUniversity/playlists)
+* [DApp University](https://www.youtube.com/c/DappUniversity/playlists) - It gives a broad overview of key concepts, such as how blockchains work, the history of cryptocurrencies, and the future of blockchain technology.
 * [Poly Code](https://www.youtube.com/c/JonasBostoen/featured) - Topics that are covered include web 3, Ethereum, and cryptocurrencies such as Bitcoin and Litecoin.
 * [Block Explorer](https://www.youtube.com/channel/UCTJxrTdQWFGtKxTeincy9uA) - Videos are organized into categories like Introduction to Dapps, Getting Started With Smart Contracts, Learn Solidity, and Blockchain Basics.
+* [Code Eater](https://www.youtube.com/c/CodeEater21/featured) - It has all the latest in blockchain, cryptocurrency, smart contracts and DApp development.
+* [Eat the Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA) -  This channel features many helpful tutorials on how to use the blockchain, as well as blockchain projects. The video tutorials are helpful for those who are just beginning their studies of blockchain technology and have no prior knowledge.
+* [Blockchain WTF](https://www.youtube.com/channel/UCKENI1wZKvZFjtgWGOq2pCQ/videos)
+* [Block Geeks](https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ/videos?view=0&sort=p)
+* [Smart Contarcts](https://www.youtube.com/c/PatrickCollins/playlists)
+* [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/featured)
 
 ### What is a Blockchain
 * *Stuart Haber & W. Scott Stornetta, (1991).* [How to Time Stamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
