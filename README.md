@@ -43,7 +43,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Useful when Running for Interview.
 * Are you a College Student and want Projects? - [NevonProjects](https://nevonprojects.com/), [Kasipara](https://www.kashipara.com/), [Codeprojects](https://code-projects.org/), [Projects world](https://projectworlds.in/), [circuit digest](https://circuitdigest.com/ai-projects-and-tutorials)
 * Play [Cool Music](https://lofi.co/) or [Rain, Wind Sound](https://asoftmurmur.com/) etc., when working on Something.
-* [PDF Drive](https://www.pdfdrive.com/) - Search for books, tutorials, manuals and authors, [Free Computer Books](https://www.onlineprogrammingbooks.com/) and [Internet Archive](https://archive.org/) is a non-profit library of millions of free books, movies, software, music, websites, and more.
+* [PDF Drive](https://www.pdfdrive.com/) - Search for books, tutorials, manuals and authors, [Free Computer Books](https://www.onlineprogrammingbooks.com/) and [Internet Archive](https://archive.org/) is a non-profit library of millions of free books, movies, software, music, websites, and more , [Free Programming Books](https://books.goalkicker.com/)
 
 ## Useful Workspace for Development
 * Here are some Developer Tools 
@@ -139,7 +139,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 - [CS50](https://cs50.harvard.edu/college/2022/spring/weeks/0/) - Free Topics from Harvard University.
 - [Harvard Courses](https://pll.harvard.edu/catalog/free)
 - [Stanford courses](https://online.stanford.edu/free-courses) - Choose your topic and Enroll it.
-- [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) - Introduction to Computer Science and Programming in Python
+- [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) Introduction to Computer Science and Programming in Python
+- [Open Source Society University](https://books.goalkicker.com/) - Computer science.
 - [Michigan University course](https://www.coursera.org/learn/python) - Programming for Everybody (Getting Started with Python)
 - Coursera's [Free Courses](https://www.coursera.org/courses?query=free)
 - [Class Central](https://www.classcentral.com/subjects) - Free courses with certificates.
@@ -185,6 +186,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * Want a **[Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d)** while Teaching or Demonstrating Something
 * Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
 * Want to **[Create Diagram and Flow Chart](https://www.diagrams.net/)** for Easy Understanding
+* Want to **[Create Mind Mapping](https://bubbl.us/)** in Online.
 * [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
 * [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
 * [Reverse Image Search](https://tineye.com/) 
@@ -194,6 +196,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [twoseven](https://twoseven.xyz/) - Watch Movies and Videos with Friends Virtually.
 * [Privacy tools Website](https://www.privacytools.io/) to find best privacy tools.
 * [Encoding and encryption online](https://cryptii.com/)
+* [Private note](https://privnote.com/) - Self Destruct, Set passwords etc.,
 * [Random useful sites](https://www.discuvver.com/), one click at a time.
 * [Command Line Explanation](https://explainshell.com/)
 * [Compare Text](https://text-compare.com/) - in Online.
