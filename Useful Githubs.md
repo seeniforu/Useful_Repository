@@ -8,6 +8,8 @@ If I Found Useful One Next time I'll Add it here.
 
 ## Github Repositories - Web Dev
 
+* [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path)
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Html, css Templates etc.,
 * [webDevsCom](https://github.com/WebDevsCom/webDevsCom) - Goto website in description - Portfolio's, Git Repositories etc., - All kinds of resources for Developers
 * Developer [Road Map](https://github.com/kamranahmedse/developer-roadmap)
@@ -48,13 +50,18 @@ If I Found Useful One Next time I'll Add it here.
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated interview preparation materials for busy engineers
 * [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science (multiple languages)
 * [Computer Science Papers](https://github.com/papers-we-love/papers-we-love) - Security Data Science Papers, Best Paper Awards in Computer Science etc.,
+* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Technical-Subjects](https://github.com/mrpawan-gupta/Technical-Subjects): The Repository Contains All the Technical Stuff's Related To SDE
 * [angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) 
 * [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+* [Everything you need to know to get the job.](https://github.com/kdn251/interviews)
+* [cs-job-advice](https://github.com/chasenyc/cs-job-advice)
+* [InterviewGuide](https://github.com/kalperen/InterviewGuide)
 
 
 ## Github Repositories - Common
 
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 * [App-ideas](https://github.com/florinpop17/app-ideas) - Use Pull Request for more Ideas.
 * [Free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) and [Free-Subject-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
@@ -64,6 +71,7 @@ If I Found Useful One Next time I'll Add it here.
 * [Free For Developers](https://github.com/ripienaar/free-for-dev#table-of-contents)
 * [The Art of command Line](https://github.com/jlevy/the-art-of-command-line)
 * [The Algorithms](https://github.com/orgs/TheAlgorithms/repositories)
+* [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python.
 * [Project-based-learning](https://github.com/practical-tutorials/project-based-learning): Curated list of project-based tutorials
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings): The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 * [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops): Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
