@@ -38,6 +38,10 @@ If I Found Useful One Next time I'll Add it here.
 * [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days): 50+ mini web projects using HTML, CSS & JS
 * [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 * [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources): 🔥 Awesome list of resources on Web Development.
+* [lmas3009/cleandocs-template](https://github.com/lmas3009/cleandocs-template): A documentation template built using HTML, Tailwindcss, and Javascript
+* [joelthorner/doc-template](https://github.com/joelthorner/doc-template): Dev documentation template (one file)
+* [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources): Awesome Web Development Resources.
+* [inazense/Useful-devs-awesome-list](https://github.com/inazense/Useful-devs-awesome-list#ide): Awesome list with useful resources for developers
 
 
 ## Github Repositories - Web Dev Libraries
@@ -98,12 +102,21 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome-osint - useful websites](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome): 🎉 An awesome & curated list of best applications and tools for Windows.
 * [Awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
+* [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses): A list of Free Software network services and web applications which can be hosted on your own servers
+* [Awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
+* [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt): Hunt the most starred projects on any date on GitHub
+* [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons#readme): Showcase your skills on your Github readme or resumé with ease ✨
+* [git-tips/tips](https://github.com/git-tips/tips): Most commonly used git tips and tricks.
 * [ossu/computer-science](https://github.com/ossu/computer-science#introduction-to-programming) - Path to a free self-taught education in Computer Science!
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs): The Open Source Computer Science Degree
 * [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
 * [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-* [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt): Hunt the most starred projects on any date on GitHub
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps#network-utilities): 🖥 📊 🕹 🛠 A curated list of command line apps
+* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#windows): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [rzashakeri/beautify-github-profile at producthunt](https://github.com/rzashakeri/beautify-github-profile?ref=producthunt)
+* [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
+
 
 ## Github Repositories - Java & Selenium
 
@@ -114,6 +127,9 @@ If I Found Useful One Next time I'll Add it here.
 * [java-multithreading](https://github.com/RameshMF/java-multithreading)
 * [MultithreadRestaurant](https://github.com/kaichunwu/MultithreadRestaurant)
 * [MultiThreading-Codes](https://github.com/abhinavece/MultiThreading-Codes)
+* [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links#3-gui): A list of useful Java frameworks, libraries, software and hello worlds examples
+* [Testing bookmarks](https://github.com/rommelmamedov/awesome-bookmarks#testing)
+
 
 
 ## Github Repositories - BlockChain
@@ -133,72 +149,51 @@ If I Found Useful One Next time I'll Add it here.
 * [Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)
 * [A collection of peer-to-peer decentralized projects](https://github.com/moshest/p2p-index)
 * [Learn_Blockchain_in_2_months](https://github.com/llSourcell/Learn_Blockchain_in_2_months)
+* [dappuniversity/music_nfts](https://github.com/dappuniversity/music_nfts)
+* [themanavshah/DApp-template](https://github.com/themanavshah/DApp-template): A DApp template created based on my instagram post.
+* [themanavshah/BlockChain-Security-List](https://github.com/themanavshah/BlockChain-Security-List): BlockChain-Security-List
+* [irungentoo/toxcore](https://github.com/irungentoo/toxcore): The future of online communications.
+* [hackerkid/Awesome-P2P](https://github.com/hackerkid/Awesome-P2P): Curated list of awesome Peer to Peer projects
+* [Awesome-ipfs](https://github.com/ipfs/awesome-ipfs): Useful resources for using IPFS and building things on top of it
+
 
 
 ## Github Repositories - Hacking and Web Security
 
 * [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything): A repository about security engineering.
-* [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking#reverse-engineering): A curated list of awesome Hacking tutorials, tools and resources
-* [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots): an awesome list of honeypot resources
-* [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis#domain-analysis): Defund the Police.
-* [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest#ddos-tools): A collection of awesome penetration testing resources, tools and other shiny things
-* [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi): 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+* [Awesome-hacking](https://github.com/carpedm20/awesome-hacking#reverse-engineering): A curated list of awesome Hacking tutorials, tools and resources
+* [Awesome-honeypots](https://github.com/paralax/awesome-honeypots): an awesome list of honeypot resources
+* [Awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis#domain-analysis): Defund the Police.
+* [Awesome-pentest](https://github.com/enaqx/awesome-pentest#ddos-tools): A collection of awesome penetration testing resources, tools and other shiny things
+* [Awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi): 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#tool-openssl): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security#tricks-sql-injection): 🐶 A curated list of Web Security materials and resources.
+* [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security#tricks-sql-injection): 🐶 A curated list of Web Security materials and resources.
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources
 * [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
-* [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam#phishing-awareness-and-reporting): 🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+* [Awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam#phishing-awareness-and-reporting): 🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 * [Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks): Free Security and Hacking eBooks
 * [aydinnyunus/Keylogger](https://github.com/aydinnyunus/Keylogger): Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
-* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening#password-generators): A collection of awesome security hardening guides, tools and other resources
-* [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security): A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* [Awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening#password-generators): A collection of awesome security hardening guides, tools and other resources
+* [Awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security): A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 * [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer): Get All Registered Wifi Passwords from Target Computer.
 * [Hacking Tool](https://github.com/Z4nzu/hackingtool): All in One.
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers, pentesters & security researchers.
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 * [ismailyyildirim/Security_list](https://github.com/ismailyyildirim/Security_list#forensic-mag)
-* [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics#frameworks): A curated list of awesome forensic analysis tools and resources
+* [Awesome-forensics](https://github.com/cugu/awesome-forensics#frameworks): A curated list of awesome forensic analysis tools and resources
+* [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons#weapons): ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers.
+* [Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools): Complete Listing and Usage of Tools used for Ethical Hacking
+* [shubhamg0sai/phone-number-tracker](https://github.com/shubhamg0sai/phone-number-tracker)
+* [The-Complete-Practical-Certified-Ethical-Hacking-Course-in-English](https://github.com/priyankgada/The-Complete-Practical-Certified-Ethical-Hacking-Course-in-English)
+* [Hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.
+* [Be-a-hacker](https://github.com/s0md3v/be-a-hacker): roadmap for being a self-taught hacker
+* [Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources): 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
+* [Manisso/fsociety](https://github.com/Manisso/fsociety): fsociety Hacking Tools Pack – A Penetration Testing Framework
+* [naimkowshik/LBFH](https://github.com/naimkowshik/LBFH): All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
+* [Awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
+* [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+* [Hacker-laws](https://github.com/dwmkerr/hacker-laws): 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+* [Awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff.
 
 
-
-
-
-
-
-
-agarrharr/awesome-cli-apps: 🖥 📊 🕹 🛠 A curated list of command line apps
-k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-hahwul/WebHackersWeapons: ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
-hhhrrrttt222111/Ethical-Hacking-Tools: Complete Listing and Usage of Tools used for Ethical Hacking
-shubhamg0sai/phone-number-tracker
-priyankgada/The-Complete-Practical-Certified-Ethical-Hacking-Course-in-English: 
-awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
-rzashakeri/beautify-github-profile at producthunt
-lmas3009/cleandocs-template: A documentation template built using HTML, Tailwindcss, and Javascript
-joelthorner/doc-template: Dev documentation template (one file)
-dappuniversity/music_nfts
-sundowndev/hacker-roadmap: A collection of hacking tools, resources and references to practice ethical hacking.
-s0md3v/be-a-hacker: roadmap for being a self-taught hacker
-husnainfareed/Awesome-Ethical-Hacking-Resources: 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
-iptv-org/iptv: Collection of publicly available IPTV channels from all over the world
-themanavshah/DApp-template: A DApp template created based on my instagram post.
-themanavshah/BlockChain-Security-List: BlockChain-Security-List
-irungentoo/toxcore: The future of online communications.
-hackerkid/Awesome-P2P: Curated list of awesome Peer to Peer projects
-abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile READMEs 📝
-markodenic/web-development-resources: Awesome Web Development Resources.
-git-tips/tips: Most commonly used git tips and tricks.
-Manisso/fsociety: fsociety Hacking Tools Pack – A Penetration Testing Framework
-naimkowshik/LBFH: About All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
-tandpfun/skill-icons: Showcase your skills on your Github readme or resumé with ease ✨
-edoardottt/awesome-hacker-search-engines: A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
-ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites
-awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
-dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro
-Vedenin/useful-java-links: A list of useful Java frameworks, libraries, software and hello worlds examples
-ipfs/awesome-ipfs: Useful resources for using IPFS and building things on top of it
-vaib25vicky/awesome-mobile-security: An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
-Testing bookmarks
-inazense/Useful-devs-awesome-list: Awesome list with useful resources for developers
