@@ -34,6 +34,11 @@ If I Found Useful One Next time I'll Add it here.
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 * [How-web-works](https://github.com/vasanthk/how-web-works)
+* [jwasham/awesome-cheatsheet](https://github.com/jwasham/awesome-cheatsheet): awesome cheatsheet
+* [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days): 50+ mini web projects using HTML, CSS & JS
+* [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+* [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources): 🔥 Awesome list of resources on Web Development.
+
 
 ## Github Repositories - Web Dev Libraries
 
@@ -57,10 +62,17 @@ If I Found Useful One Next time I'll Add it here.
 * [Everything you need to know to get the job.](https://github.com/kdn251/interviews)
 * [cs-job-advice](https://github.com/chasenyc/cs-job-advice)
 * [InterviewGuide](https://github.com/kalperen/InterviewGuide)
+* [fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode): Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.
+* [IDeserve/learn](https://github.com/IDeserve/learn): Algorithms, Data Structures, Programming Interviews
+* [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions): Mega list of 1 on 1 meeting questions compiled from a variety to sources
+* [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU): A list of interview questions. This repository is everything you need to prepare for your technical interview.
+* [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students): ✅ Curated list of resources for college students
+* [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis): An open source list of developer questions to ask prospective employers
 
 
 ## Github Repositories - Common
 
+* [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList#amazing-developers-of-youtube): List of Development YouTube Channels
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 * [App-ideas](https://github.com/florinpop17/app-ideas) - Use Pull Request for more Ideas.
@@ -88,8 +100,10 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
 * [ossu/computer-science](https://github.com/ossu/computer-science#introduction-to-programming) - Path to a free self-taught education in Computer Science!
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+* [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs): The Open Source Computer Science Degree
 * [Free Courses](https://github.com/prakhar1989/awesome-courses) - Awesome CS Courses.
 * [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+* [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt): Hunt the most starred projects on any date on GitHub
 
 ## Github Repositories - Java & Selenium
 
@@ -143,6 +157,48 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers, pentesters & security researchers.
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
+* [ismailyyildirim/Security_list](https://github.com/ismailyyildirim/Security_list#forensic-mag)
+* [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics#frameworks): A curated list of awesome forensic analysis tools and resources
 
 
 
+
+
+
+
+
+agarrharr/awesome-cli-apps: 🖥 📊 🕹 🛠 A curated list of command line apps
+k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+hahwul/WebHackersWeapons: ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
+hhhrrrttt222111/Ethical-Hacking-Tools: Complete Listing and Usage of Tools used for Ethical Hacking
+shubhamg0sai/phone-number-tracker
+priyankgada/The-Complete-Practical-Certified-Ethical-Hacking-Course-in-English: 
+awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
+rzashakeri/beautify-github-profile at producthunt
+lmas3009/cleandocs-template: A documentation template built using HTML, Tailwindcss, and Javascript
+joelthorner/doc-template: Dev documentation template (one file)
+dappuniversity/music_nfts
+sundowndev/hacker-roadmap: A collection of hacking tools, resources and references to practice ethical hacking.
+s0md3v/be-a-hacker: roadmap for being a self-taught hacker
+husnainfareed/Awesome-Ethical-Hacking-Resources: 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
+iptv-org/iptv: Collection of publicly available IPTV channels from all over the world
+themanavshah/DApp-template: A DApp template created based on my instagram post.
+themanavshah/BlockChain-Security-List: BlockChain-Security-List
+irungentoo/toxcore: The future of online communications.
+hackerkid/Awesome-P2P: Curated list of awesome Peer to Peer projects
+abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile READMEs 📝
+markodenic/web-development-resources: Awesome Web Development Resources.
+git-tips/tips: Most commonly used git tips and tricks.
+Manisso/fsociety: fsociety Hacking Tools Pack – A Penetration Testing Framework
+naimkowshik/LBFH: About All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
+tandpfun/skill-icons: Showcase your skills on your Github readme or resumé with ease ✨
+edoardottt/awesome-hacker-search-engines: A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
+ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites
+awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
+dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro
+Vedenin/useful-java-links: A list of useful Java frameworks, libraries, software and hello worlds examples
+ipfs/awesome-ipfs: Useful resources for using IPFS and building things on top of it
+vaib25vicky/awesome-mobile-security: An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
+Testing bookmarks
+inazense/Useful-devs-awesome-list: Awesome list with useful resources for developers
