@@ -26,6 +26,7 @@ Take a look at these Articles
 
 ### Youtube Tutorials
 
+* [FreCodecamp.org](https://youtu.be/gyMwXuJrbJQ) - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course
 * BlockChain [Youtube](https://youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
 * [DApp University](https://www.youtube.com/c/DappUniversity/playlists) - It gives a broad overview of key concepts, such as how blockchains work, the history of cryptocurrencies, and the future of blockchain technology.
 * [Poly Code](https://www.youtube.com/c/JonasBostoen/featured) - Topics that are covered include web 3, Ethereum, and cryptocurrencies such as Bitcoin and Litecoin.
