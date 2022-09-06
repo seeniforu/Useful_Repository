@@ -132,6 +132,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 ## Free Online Courses and Resources
 
+- Free [Cisco courses](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html) - Cyber security, IOT, Networking, python and linux essentials.
 - 13+ [Free Development Certification](https://rahulism.hashnode.dev/13-free-development-certification-to-get-in-2021)
 - [List of Thousands](https://www.classcentral.com/report/free-certificates/) of **Free Certificates and Badges** From Google, LinkedIn, Freecodecamp etc.,
 - [Alison.com Courses](https://alison.com/courses/categories) - Choose category Start Doing.
