@@ -187,6 +187,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
 * Want to **[Create Diagram and Flow Chart](https://www.diagrams.net/)** for Easy Understanding
 * Want to **[Create Mind Mapping](https://bubbl.us/)** in Online.
+* Give Question to [Get Code](https://www.useblackbox.io/search) in single search.
 * [virustotal](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files, domains, IPs and URLs to detect malware. 
 * [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
 * [Reverse Image Search](https://tineye.com/) 
