@@ -66,6 +66,8 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 ### Are you going to Start Learning
 - I'm Adding Index of all websites So you can Select and Learn whatever you want. These have enough Content to Create whatever you want at Basic Level
 
+  - [Free code camp](https://www.freecodecamp.org/learn) - Web dev and more Reading like tutorials.
+  - [web.dev] - Build modern web with Reading like tutorials.
   - [Odin Project](https://www.theodinproject.com/) - Full stack curriculum with basic Topics.
   - [W3 Schools](https://www.w3schools.com/) - Select tutorials to choose a Subject
   - [Tutorials point](https://www.tutorialspoint.com/tutorialslibrary.htm)
