@@ -29,7 +29,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 * [Useful Websites Found Online](#useful-websites-found-online-photo-video-document-and-more-editing-tools) and [Awesome Design tools](https://github.com/goabstract/Awesome-Design-Tools) - (Photo and Video editing tools)
 * [Blockchain and Web 3.0](https://github.com/seeniforu/Useful_Repository/blob/main/Blockchain/Blockchain.md)
 * [Github Collection](https://github.com/seeniforu/Useful_Repository/blob/main/Useful%20Githubs.md)
-* [Free png Images](#websites-for-free-png-images-high-resolution-image-for-free-download)
+* [Free png Images](#websites-for-free-png-images-and-videos)
 * [Free Icons and Illustrations](#websites-for-free-icons)
 * [Free Web hosting](#free-hosting-resource)
 
@@ -132,6 +132,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 ## Free Online Courses and Resources
 
+- Free [Google Online Courses and certificates](https://learndigital.withgoogle.com/digitalgarage/courses?certification=free) Certificates
 - Free [Cisco courses](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html) - Cyber security, IOT, Networking, python and linux essentials.
 - 13+ [Free Development Certification](https://rahulism.hashnode.dev/13-free-development-certification-to-get-in-2021)
 - [List of Thousands](https://www.classcentral.com/report/free-certificates/) of **Free Certificates and Badges** From Google, LinkedIn, Freecodecamp etc.,
@@ -184,8 +185,10 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 
 ### Common
 
+* **[You](https://you.com/)** - Modern search Engine like Google
 * Want a **[Whiteboard](https://witeboard.com/1d5a88c0-8f9e-11ec-a41f-f3914ecd2b2d)** while Teaching or Demonstrating Something
 * Want to **[Create Presentations, designs etc.,](https://www.canva.com/)** 
+* To create [Modern presentations](https://gamma.app/)
 * Want to **[Create Diagram and Flow Chart](https://www.diagrams.net/)** for Easy Understanding
 * Want to **[Create Mind Mapping](https://bubbl.us/)** in Online.
 * Give Question to [Get Code](https://www.useblackbox.io/search) in single search.
@@ -205,9 +208,15 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
 * [JSON Viewer](https://jsonhero.io/) - Clearly view a bunch of JSON file.
 * [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
+* [Excel formula bot](https://excelformulabot.com/)
+* [Develop basic grammer skills](https://hemingwayapp.com/)
+* [Read premium articles with 12ft ladder](https://12ft.io/)
+* [We transfer](https://wetransfer.com/) - send upto 2GB of files online.
 
-### Websites For Free PNG Images High Resolution Image For free download
 
+### Websites For Free PNG Images and Videos
+
+* Awesome Stock Video Clips, Stock Music, Sound Effects & Video Templates. All available for [free](https://mixkit.co/)
 * **[Remove Watermark](https://www.watermarkremover.io/) and [Remove Unwanted objects](https://theinpaint.com/) - Use This If Image Contains Watermark.**
 * [Stick PNG](https://www.stickpng.com/)
 * [Free PNG](https://freepngimg.com/)
