@@ -167,6 +167,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Renderforest](https://www.renderforest.com/) offers you the best online branding tools to create high-quality videos, logos, graphics, mockups, and websites with minimal time and effort.
 * [Jitter](https://jitter.video/gallery/) - Animate your designs easily. Export your creations as videos or GIFs. All in your browser. Free Version available.
 * [Photopea](https://www.photopea.com/) - Free **Online Photo Editor**.
+* [AI Upscaling](https://www.upscale.media/) - **AI Background remove, Watermark remove, Compression**
 * Remove Unwanted objects from Background - [Website](https://theinpaint.com/)
 * Remove **Image Background** - [Slazzer](https://www.slazzer.com/)
 * Remove your **Video Background** - [Website](https://www.unscreen.com/)
@@ -210,10 +211,15 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Terms and Conditions](https://getterms.io/) Generator For Your Website. Free and Paid available.
 * [JSON Viewer](https://jsonhero.io/) - Clearly view a bunch of JSON file.
 * [Scribe](https://scribehow.com/) - Automatically generate step-by-step guides while you work.
+* [Heurio](https://www.heurio.co/) - UI/UX review for webpages - add comments share with anyone.
+* [Jam](https://jam.dev/s) - The fastest bug reporting tool. Cut your bug reporting time by 20x.
+* [Motion one](https://motion.dev/) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
 * [Excel formula bot](https://excelformulabot.com/)
 * [Develop basic grammer skills](https://hemingwayapp.com/)
 * [Read premium articles with 12ft ladder](https://12ft.io/)
 * [We transfer](https://wetransfer.com/) - send upto 2GB of files online.
+* [Upward AI](https://www.upword.ai/) - Upword is a powerful AI-powered summarization tool that helps you learn 10x faster by capturing key ideas.
+* []
 
 
 ### Websites For Free PNG Images and Videos
