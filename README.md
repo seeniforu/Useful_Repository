@@ -184,6 +184,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Online paint tool](https://kleki.com/)
 * [Bannereasy](https://www.bannereasy.com/) - Create your own customized banners online.
 * [generated photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
+* [Create Photos online using AI](https://imgcreator.zmo.ai/)
 
 
 ### Common
@@ -199,6 +200,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [naturalreaders](https://www.naturalreaders.com/index.html) - Powerful Text-to-Speech for at home, work, or on the go.
 * [Reverse Image Search](https://tineye.com/) 
 * **[Take Typing Tests Online](https://www.typing.com/student/tests)**
+* [Type Lit](https://www.typelit.io/) - Improve your typing online by practicing on your favorite literature.
 * [Printfriendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
 * [Wolframalpha](https://www.wolframalpha.com/) - Wolfram|Alpha is a unique engine for computing answers and providing knowledge - Useful For Mathematics etc.,
 * [twoseven](https://twoseven.xyz/) - Watch Movies and Videos with Friends Virtually.
@@ -219,7 +221,8 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Read premium articles with 12ft ladder](https://12ft.io/)
 * [We transfer](https://wetransfer.com/) - send upto 2GB of files online.
 * [Upward AI](https://www.upword.ai/) - Upword is a powerful AI-powered summarization tool that helps you learn 10x faster by capturing key ideas.
-* []
+* [No code app builder](https://www.zorp.one/) - Powerful business app builder for everyone, no code, Free available.
+* [Debate on topics](https://www.kialo.com/) - know both sides of a concept.
 
 
 ### Websites For Free PNG Images and Videos
