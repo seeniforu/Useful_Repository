@@ -81,6 +81,10 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
   - Data Structures [Visualgo](https://visualgo.net/en) and [Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 
 ### Free Video tutorials Youtube
+
+- Free code camp's [Harvard CS50](https://youtu.be/8mAITcNt710) - Full Computer Science University Course  
+- [Free code camp's](https://www.youtube.com/c/Freecodecamp/playlists) - playlist is one of the best channel where mostly everthing covered which is completely free.
+
 #### Web development (Beginners) - Explore these youtube channel for More tutorials
 
 - 100 Days of Code - **[Web Development Bootcamp](https://youtu.be/i9uAgkKEuNU)** - **80 hr Udemy course Short Version (6 hrs)** - [Explore Channel's Playlists](https://www.youtube.com/c/Academind/playlists)
