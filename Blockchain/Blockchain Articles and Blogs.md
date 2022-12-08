@@ -56,4 +56,5 @@
 * [idrisolubisi](https://blog.idrisolubisi.com/) - Web 3.0, Resources, Defi, and More Articles...
 * [Arpan Pandey](https://blog.hackersreboot.tech/) - Blockchain etc.,
 * [Shivashish](https://shiva.hashnode.dev/series/blockchain-tutorial) - Blockchain topics.
+* [Devs Blog](https://devsblog.hashnode.dev/) - Etherum, solidity, blockchain..
 
