@@ -104,6 +104,8 @@ If I Found Useful One Next time I'll Add it here.
 * [Awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
 * [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses): A list of Free Software network services and web applications which can be hosted on your own servers
 * [Awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile READMEs 📝
+* [Awesome CTO](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+* [Awesome TPM](https://github.com/kuchin/awesome-tpm) - A curated and opinionated list of resources for Technical Program Managers
 * [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt): Hunt the most starred projects on any date on GitHub
 * [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons#readme): Showcase your skills on your Github readme or resumé with ease ✨
 * [git-tips/tips](https://github.com/git-tips/tips): Most commonly used git tips and tricks.
@@ -116,6 +118,7 @@ If I Found Useful One Next time I'll Add it here.
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#windows): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [rzashakeri/beautify-github-profile at producthunt](https://github.com/rzashakeri/beautify-github-profile?ref=producthunt)
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
+* [Hash node blog card](https://github.com/Souravdey777/HashnodeBlogCards)
 
 
 ## Github Repositories - Java & Selenium
@@ -129,6 +132,7 @@ If I Found Useful One Next time I'll Add it here.
 * [MultiThreading-Codes](https://github.com/abhinavece/MultiThreading-Codes)
 * [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links#3-gui): A list of useful Java frameworks, libraries, software and hello worlds examples
 * [Testing bookmarks](https://github.com/rommelmamedov/awesome-bookmarks#testing)
+* [Open source test scripter](https://github.com/CognizantOpenSource/Cognizant-Intelligent-Test-Scripter) and more in its repositories.
 
 
 
@@ -160,6 +164,7 @@ If I Found Useful One Next time I'll Add it here.
 
 ## Github Repositories - Hacking and Web Security
 
+* [Anonymous chatting](https://github.com/Xtrendence/X-Anonymous) and many [more](https://www.xtrendence.dev/?page=projects) security related items.
 * [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything): A repository about security engineering.
 * [Awesome-hacking](https://github.com/carpedm20/awesome-hacking#reverse-engineering): A curated list of awesome Hacking tutorials, tools and resources
 * [Awesome-honeypots](https://github.com/paralax/awesome-honeypots): an awesome list of honeypot resources
