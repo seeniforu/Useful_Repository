@@ -56,6 +56,7 @@ Hi all, I'm adding some **Websites/Stuffs** Which is useful for Me as well as Yo
 
 * Here are some Cheatsheets
 
+  * **[Cheatsheets | Codeacademy](https://www.codecademy.com/resources/cheatsheets/all) - Have cheetsheets for different languages and subjects.**
   * **[Cheatsheets](https://cheatography.com/) - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!**
   * [Over API](https://overapi.com/) - Cheatsheets in Alphabetical Order.
   * [Devhints](https://devhints.io/) - Search For a Cheetsheet.
