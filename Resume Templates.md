@@ -19,6 +19,7 @@ You can Prepare your Resume in Ms-Word or also in Online.
 * [VisualCV](https://www.visualcv.com/) - 3 free templates, Check before editing.
 * [Cultivated Culture](https://cultivatedculture.com/resume-templates/)
 * [Kick Resume](https://www.kickresume.com/en/)
+* [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026.
 
 If want You can surely go for Ms-word based simple resume, there is no rules to create a resume. 
 
