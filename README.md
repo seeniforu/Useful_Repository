@@ -166,6 +166,7 @@ Very few only I mentioned here there are many more, Just explore Youtube.
 * [Small Dev Tools](https://smalldev.tools/) - Test data Generator, URL Encode online etc...
 * [Tiny Wow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier, - 100% Free 🔥🔥
 * [Newisty](https://newisty.com/) - Image Processing, SEO and Dev tools.
+* [imgmov Image Resizer](https://imgmov.com/resize-image-for-ai-video) - Crop or pad a local photo to exact dimensions in your browser; free and no account required.
 * [All Online Tools in “One Box”](https://10015.io/) - Text, Image, CSS, Coding, Color, Social Media and Bar Code Generator Tools etc..
 * [123apps](https://123apps.com/) - Audio, video, pdf tools Limited free version available.
 * [Cloud Convert](https://cloudconvert.com/) - CloudConvert is an online file converter it nearly supports all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. Limited free Version Available.
